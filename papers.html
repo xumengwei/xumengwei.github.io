@@ -1,0 +1,222 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="./css-js/bootstrap.min.css">
+    <link rel="stylesheet" href="./css-js/all.css">
+
+    <link rel="stylesheet" href="./css-js/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="./css-js/default.css" />
+    <link rel="stylesheet" type="text/css" href="./css-js/menucss.css" />
+
+    <style>
+        .footer {
+            position: relative;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            height: 25%;
+            background-color: #d5d8dc;
+            color: white;
+            text-align: left;
+        }
+        
+        a {
+            text-decoration: none;
+            color: #336699;
+        }
+    </style>
+
+    <title>Mengwei Xu</title>
+</head>
+
+<body>
+    <div id="outer">
+        <!--header-->
+        <div id="header">
+            <div id="headercontent">
+                <a href="https://www.bupt.edu.cn/">
+                    <img style="border-style: none; border-width: 0; width: 45%; height: 20%;" src="image/bupt-logo.png" class="left" alt="BUPT Logo" />
+                </a>
+            </div>
+        </div>
+
+        <div>
+            <ul id="menu">
+                <li class="active"><a href="index.html">Home</a></li>
+                <li><a href="papers.html">Papers</a></li>
+                <li><a href="service.html">Service</a></li>
+                <li><a href="awards.html">Awards&Funds</a></li>
+                <li><a href="teaching.html">Teaching</a></li>
+                <li><a href="invited-talks.html">Talks</a></li>
+                <li><a href="students.html">Group</a></li>
+            </ul>
+        </div>
+        <div id="menubottom"></div>
+
+        <div id="content" class="contentarea">
+            <!-- conference publications -->
+            <h3>Selected Conference Publications</h3>
+            <h2></h2>
+            This list is incomplete: it includes only papers that lie in my research interest</br>
+            <a target="_blank" href="full-pub.html"> <b> A More Complete List </b></a> |
+            <a target="_blank" href="https://scholar.google.com.hk/citations?user=hFmJwKQAAAAJ&hl=en"> <b> Google Scholar </b></a> |
+            <a target="_blank" href="https://dblp.uni-trier.de/pers/hd/x/Xu:Mengwei"> <b> DBLP </b> </a>
+            </br> (* = equal contributions)
+
+
+            <script>
+                function conferences(result) {
+                    document.write('<ul><div id="conference-example">');
+                    for (i = 0; i < result.length; i++) {
+                        document.write('<p class="pubEntry"><li><b>');
+                        // title
+                        if (result[i].conference != '[arXiv]')
+                            document.write('<strong style="color: red">');
+                        document.write(result[i].conference);
+                        if (result[i].conference != '[arXiv]')
+                            document.write('</strong>');
+                        document.write(' ' + result[i].title + '</b><br>');
+
+                        // authors
+                        for (j = 0; j < result[i].authors.length; j++) {
+                            var name = result[i].authors[j];
+                            if (name == 'Mengwei Xu')
+                                document.write("<b>Mengwei Xu</b>");
+                            else if (name == 'Mengwei Xu*')
+                                document.write("<b>Mengwei Xu*</b>");
+                            else
+                                document.write(name);
+                            if (j != result[i].authors.length - 1)
+                                document.write(',');
+                            document.write(' ');
+                        }
+                        document.write('<br>');
+
+                        //conference fullname & acceptance rate
+                        if (result[i].conference != "[arXiv]") {
+                            if (result[i].addtion.rate != null)
+                                document.write(result[i].confernce_fullname + '. ' + result[i].addtion.rate + '.<br>');
+                            else
+                                document.write('<i> ' + result[i].confernce_fullname + '.</i><br>');
+                        }
+
+                        //files
+                        if (result[i].addtion.files != null) {
+                            for (j = 0; j < result[i].addtion.files.length; j++) {
+                                if (j == 0)
+                                    document.write('[');
+                                else
+                                    document.write(' | ');
+                                document.write('<a  style="font-weight:bold" target="_blank" href="' + result[i].addtion.files[j].path + '">' + result[i].addtion.files[j].name + '</a>');
+
+                            }
+                            document.write(']');
+
+                            if (result[i].addtion.important_msg != null)
+                                document.write('<strong style="color: red"> ' + result[i].addtion.important_msg + '</strong>');
+                        }
+                        if (result[i].addtion.msg != null)
+                            document.write('&emsp; <small>' + result[i].addtion.msg + '</small>');
+                        document.write('</li>');
+                    }
+                    document.write("</div></ul>");
+                }
+            </script>
+
+            <script type="text/javascript" src="selected-conference.json?callback=conferences"></script>
+
+
+            <!-- <hr size="30" color="#cfd8dc"> -->
+            <br>
+            <h3>Selected Journal Publications</h3>
+            <h2></h2>
+
+            <script>
+                function journals(result) {
+                    document.write('<ul><div id="journal-example">');
+                    for (i = 0; i < result.length; i++) {
+                        document.write('<ul><div id="journal-example">');
+                        document.write('<p class="pubEntry"><li><b>');
+                        // title
+                        if (result[i].journal != '[arXiv]')
+                            document.write('<strong style="color: red">');
+                        document.write(result[i].journal);
+                        if (result[i].journal != '[arXiv]')
+                            document.write('</strong>');
+                        document.write(' ' + result[i].title + '</a></b>');
+
+                        // authors
+                        for (j = 0; j < result[i].authors.length; j++) {
+                            var name = result[i].authors[j];
+                            if (name == 'Mengwei Xu')
+                                document.write("<b>Mengwei Xu</b>");
+                            else if (name == 'Mengwei Xu*')
+                                document.write("<b>Mengwei Xu*</b>");
+                            else
+                                document.write(name);
+                            if (j != result[i].authors.length - 1)
+                                document.write(',');
+                            document.write(' ');
+                        }
+                        document.write('<br>');
+
+
+                        //journal fullname
+                        document.write('<i> ' + result[i].journal_fullname + '.</i><br>');
+
+                        //files
+                        if (result[i].files != null) {
+                            for (j = 0; j < result[i].files.length; j++) {
+                                if (j == 0)
+                                    document.write('[');
+                                else
+                                    document.write(' | ');
+                                document.write('<a  target="_blank" href="' + result[i].files[j].path + '">' + result[i].files[j].name + '</a>');
+
+                            }
+                            document.write(']');
+
+                        }
+                        if (result[i].msg != null)
+                            document.write('&emsp; <small>' + result[i].msg + '</small>');
+                        document.write('</li>');
+                    }
+                    document.write("</div></ul>");
+                }
+            </script>
+
+            <script type="text/javascript" src="selected-journal.json?callback=journals"></script>
+        </div>
+
+
+
+
+
+
+
+        <div class="panel-group" id="accordion">
+
+
+            <div class="footer"></div>
+
+
+            <script src="./css-js/jquery-3.3.1.slim.min.js"></script>
+            <script src="./css-js/popper.min.js"></script>
+            <script src="./css-js/bootstrap.min.js"></script>
+</body>
+
+<footer class="footer">
+    <div class="container">
+        <span class="text-muted"></span>
+    </div>
+</footer>
+
+</html>
+
+</html>

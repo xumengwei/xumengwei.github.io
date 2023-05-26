@@ -1,0 +1,65 @@
+journals([{
+        "journal": "[TBD'22]",
+        "journal_fullname": "IEEE Transactions on Big Data",
+        "title": "Resource-Aware Federated Neural Architecture Search over Heterogeneous Mobile Devices",
+        "authors": ["Jinliang Yuan", "Mengwei Xu", "Yuxin Zhao", "Kaigui Bian", "Gang Huang", "Xuanzhe Liu", "Shangguang Wang"],
+        "year": 2022,
+        "addtion": ""
+    },
+    {
+        "journal": "[TMC'22]",
+        "journal_fullname": "IEEE Transactions on Mobile Computing",
+        "title": "FLASH: Heterogeneity-Aware Federated Learning at Scale",
+        "authors": ["Chengxu Yang", "Mengwei Xu", "Qipeng Wang", "Zhenpeng Chen", "Kang Huang", "Yun Ma", "Kaigui Bian", "Gang Huang", "Yunxin Liu", "Xin Jin", "Xuanzhe Liu"],
+        "year": 2022,
+        "addtion": ""
+    },
+    {
+        "journal": "[IEEE Pervasive Computing'21]",
+        "journal_fullname": "IEEE Pervasive Computing, Special Issue on Pervasive Video and Audio",
+        "title": "A Case for Camera-as-a-Service",
+        "authors": ["Mengwei Xu", "Yunxin Liu", "Xuanzhe Liu"],
+        "year": 2021,
+        "addtion": ""
+    },
+    {
+        "journal": "[IoTJ'21]",
+        "journal_fullname": "IEEE Internet of Things Journal",
+        "title": "Joint placement of UPF and edge server for 6G network",
+        "authors": ["Yuanzhe Li", "Xiao Ma", "Mengwei Xu", "Ao Zhou", "Qibo Sun", "Ning Zhang", "Shangguang Wang"],
+        "year": 2021,
+        "addtion": ""
+    },
+    {
+        "journal": "[JoS'20]",
+        "journal_fullname": "Journal of Software",
+        "title": "Autonomous Learning System towards Mobile Intelligence (in Chinese)",
+        "authors": ["Mengwei Xu", "Yuanqiang Liu", "Kang Huang", "Xuanzhe Liu", "Gang Huang"],
+        "year": 2020,
+        "addtion": ""
+    },
+    {
+        "journal": "[TMC'19]",
+        "journal_fullname": "IEEE Transactions on Mobile Computing",
+        "title": "DeepWear: Adaptive Local Offloading for On-Wearable Deep Learning",
+        "authors": ["Mengwei Xu", "Feng Qian", "Mengze Zhu", "Feifan Huang", "Saumay Pushp", "Xuanzhe Liu"],
+        "year": 2023,
+        "addtion": ""
+    },
+    {
+        "journal": "[TMC'17]",
+        "journal_fullname": "IEEE Transactions on Mobile Computing",
+        "title": "DeepWear: Adaptive Local Offloading for On-Wearable Deep Learning",
+        "authors": ["Gang Huang", "Mengwei Xu", "Felix Xiaozhu Lin", "Yun Ma", "Yunxin Liu", "Saumay Pushp", "Xuanzhe Liu"],
+        "year": 2017,
+        "addtion": ""
+    },
+    {
+        "journal": "[TSC'17]",
+        "journal_fullname": "IEEE Transactions on Services Computing",
+        "title": "MUIT: a domain-specific language and its middleware for adaptive mobile web-based user interfaces in WS-BPEL",
+        "authors": ["Xuanzhe Liu", "Mengwei Xu", "Teng Teng", "Gang Huang", "Hong Mei"],
+        "year": 2017,
+        "addtion": ""
+    }
+])

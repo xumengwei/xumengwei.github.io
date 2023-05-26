@@ -1,0 +1,225 @@
+conferences([{
+        "conference": "[EuroMLSys'23]",
+        "confernce_fullname": "The 3rd Workshop on Machine Learning and Systems",
+        "title": "Towards Practical Few-shot Federated NLP",
+        "authors": ["Dongqi Cai", "Yaozong Wu", "Haitao Yuan", "Shangguang Wang", "Felix Xiaozhu Lin", "Mengwei Xu"],
+        "year": 2023,
+        "addtion": ""
+    },
+    {
+        "conference": "[IWQoS'23]",
+        "confernce_fullname": "IEEE/ACM International Symposium on Quality of Service",
+        "title": "A Holistic QoS View of Crowdsourced Edge Cloud Platform",
+        "authors": ["Shihao Shen", "Yicheng Feng", "Mengwei Xu", "Cheng Zhang", "Xiaofei Wang", "Wenyu Wang", "Victor C.M. Leung"],
+        "year": 2023,
+        "addtion": ""
+    },
+    {
+        "conference": "[IWQoS'23]",
+        "confernce_fullname": "IEEE/ACM International Symposium on Quality of Service",
+        "title": "How Far Have Edge Clouds Gone? A Spatial-Temporal Analysis of Edge Network Latency In the Wild",
+        "authors": ["Heng Zhang", "Shaoyuan Huang", "Mengwei Xu", "Deke Guo", "Xiaofei Wang", "Victor C.M. Leung", "Wenyu Wang"],
+        "year": 2023,
+        "addtion": ""
+    },
+    {
+        "conference": "[MobiSys'23]",
+        "confernce_fullname": "International Conference on Mobile Systems, Applications, and Services",
+        "title": "Boosting DNN Cold Inference on Edge Devices",
+        "authors": ["Rongjie Yi", "Ting Cao", "Ao Zhou", "Xiao Ma", "Shangguang Wang", "Mengwei Xu"],
+        "year": 2023,
+        "addtion": ""
+    },
+    {
+        "conference": "[WWW'23]",
+        "confernce_fullname": "The Web Conference",
+        "title": "ELASTIC: Edge Workload Forecasting based on Collaborative Cloud-Edge Deep Learning",
+        "authors": ["Yanan Li", "Haitao Yuan", "Zhe Fu", "Xiao Ma", "Mengwei Xu", "Shangguang Wang"],
+        "year": 2023,
+        "addtion": ""
+    },
+    {
+        "conference": "[INFOCOM'23]",
+        "confernce_fullname": "IEEE International Conference on Computer Communications",
+        "title": "Privacy as a Resource in Differentially Private Federated Learning",
+        "authors": ["Jinliang Yuan", "Shangguang Wang", "Shihe Wang", "Yuanchun Li", "Xiao Ma", "Ao Zhou", "Mengwei Xu"],
+        "year": 2023,
+        "addtion": ""
+    },
+    {
+        "conference": "[MobiCom'23]",
+        "confernce_fullname": "International Conference on Mobile Computing and Networking",
+        "title": "Resource-Efficient Federated Learning for Modern NLP",
+        "authors": ["Dongqi Cai", "Yaozong Wu", "Shangguang Wang", "Felix Xiaozhu Lin", "Mengwei Xu"],
+        "year": 2023,
+        "addtion": ""
+    },
+    {
+        "conference": "[ACM/IEEE SEC'22]",
+        "confernce_fullname": "The Seventh ACM/IEEE Symposium on Edge Computing",
+        "title": "Position Paper: Renovating Edge Servers with ARM SoCs",
+        "authors": ["Mengwei Xu", "Li Zhang", "Shangguang Wang"],
+        "year": 2022,
+        "addtion": ""
+    },
+    {
+        "conference": "[IEEE Satellite'22]",
+        "confernce_fullname": "IEEE International Conference on Satellite Computing",
+        "title": "A Satellite-Born Server Design with Massive Tiny Chips Towards In-Space Computing",
+        "authors": ["Mengwei Xu", "Li Zhang", "Hongyu Li", "Ruolin Xing", "Qibo Sun"],
+        "year": 2022,
+        "addtion": "Best Paper Award"
+    },
+    {
+        "conference": "[MobiCom'22]",
+        "confernce_fullname": "International Conference on Mobile Computing and Networking",
+        "title": "Mandheling: Mixed-Precision On-Device DNN Training with DSP Offloading",
+        "authors": ["Daliang Xu*", "Mengwei Xu*", "Qipeng Wang", "Shangguang Wang", "Yun Ma", "Kang Huang", "Gang Huang", "Xin Jin", "Xuanzhe Liu"],
+        "year": 2022,
+        "addtion": ""
+    },
+    {
+        "conference": "[MobiSys'22]",
+        "confernce_fullname": "International Conference on Mobile Systems, Applications, and Services",
+        "title": "Melon: Breaking the Memory Wall for Resource-Efficient On-Device Machine Learning",
+        "authors": ["Qipeng Wang*", "Mengwei Xu*", "Chao Jin", "Xinran Dong", "Jinliang Yuan", "Xin Jin", "Gang Huang", "Yunxin Liu", "Xuanzhe Liu"],
+        "year": 2022,
+        "addtion": ""
+    },
+    {
+        "conference": "[WWW'22]",
+        "confernce_fullname": "The Web Conference (WWW)",
+        "title": "A Comprehensive Benchmark of Deep Learning Libraries on Mobile Devices",
+        "authors": ["Qiyang Zhang", "Xiang Li", "Xiangying Che", "Xiao Ma", "Ao Zhou", "Mengwei Xu", "Shangguang Wang", "Yun Ma", "Xuanzhe Liu"],
+        "year": 2022,
+        "addtion": ""
+    },
+    {
+        "conference": "[WWW'22]",
+        "confernce_fullname": "The Web Conference (WWW)",
+        "title": "Commutativity-guaranteed Docker Image Reconstruction towards Effective Layer Sharing",
+        "authors": ["Sisi Li", "Ao Zhou", "Xiao Ma", "Mengwei Xu", "Shangguang Wang"],
+        "year": 2022,
+        "addtion": ""
+    },
+    {
+        "conference": "[UIC'22]",
+        "confernce_fullname": "proceedings of the 19th IEEE International Conference on Ubiquitous Intelligence and Computing",
+        "title": "Towards Robust Intelligence in Space",
+        "authors": ["Xin Yuan", "Ruolin Xing", "Shangguang Wang", "Mengwei Xu"],
+        "year": 2022,
+        "addtion": ""
+    },
+    {
+        "conference": "[EDGE'21]",
+        "confernce_fullname": "IEEE International Conference on Edge Computing (EDGE)",
+        "title": "Tiansuan Constellation: An Open Research Platform",
+        "authors": ["Shangguang Wang", "Qing Li", "Mengwei Xu", "Xiao Ma", "Ao Zhou", "Qibo Sun"],
+        "year": 2021,
+        "addtion": ""
+    },
+    {
+        "conference": "[IMC'21]",
+        "confernce_fullname": "The Internet Measurement Conference (IMC)",
+        "title": "From Cloud to Edge: A First Look at Public Edge Platforms",
+        "authors": ["Mengwei Xu", "Zhe Fu", "Xiao Ma", "Li Zhang", "Yanan Li", "Feng Qian", "Shangguang Wang", "Ke Li", "Jingyu Yang", "Xuanzhe Liu"],
+        "year": 2021,
+        "addtion": ""
+    },
+    {
+        "conference": "[FSE'21]",
+        "confernce_fullname": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)",
+        "title": "TaintStream: Fine-Grained Taint Tracking for Big Data Platforms through Dynamic Code Translation",
+        "authors": ["Chengxu Yang", "Yuanchun Li", "Mengwei Xu", "Zhenpeng Chen", "Yunxin Liu", "Gang Huang", "Xuanzhe Liu"],
+        "year": 2021,
+        "addtion": ""
+    },
+    {
+        "conference": "[USENIX ATC'21]",
+        "confernce_fullname": "USENIX ATC",
+        "title": "Video Analytics with Zero-Streaming Cameras",
+        "authors": ["Mengwei Xu*", "Tiantu Xu*", "Yunxin Liu", "Felix Xiaozhu Lin"],
+        "year": 2021,
+        "addtion": ""
+    },
+    {
+        "conference": "[EMDL'21]",
+        "confernce_fullname": "The International Workshop on Embedded and Mobile Deep Learning (EMDL), co-located with ACM International Conference on Mobile Systems, Applications, and Services (MobiSys)",
+        "title": "Towards Ubiquitous Learning: A First Measurement of On-Device Training Performance",
+        "authors": ["Dongqi Cai", "Qipeng Wang", "Yuanqiang Liu", "Yunxin Liu", "Shangguang Wang", "Mengwei Xu"],
+        "year": 2021,
+        "addtion": ""
+    },
+    {
+        "conference": "[MM'21]",
+        "confernce_fullname": "The ACM Multimedia (MM)",
+        "title": "Boosting Mobile CNN Inference through Semantic Memory",
+        "authors": ["Yun Li", "Chen Zhang", "Shihao Han", "Li Lyna Zhang", "Baoqun Yin", "Yunxin Liu", "Mengwei Xu"],
+        "year": 2021,
+        "addtion": ""
+    },
+    {
+        "conference": "[WWW'21]",
+        "confernce_fullname": "The Web Conference",
+        "title": "Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data",
+        "authors": ["Chengxu Yang", "Qipeng Wang", "Mengwei Xu", "Shangguang Wang", "Kaigui Bian", "Xuanzhe Liu"],
+        "year": 2021,
+        "addtion": ""
+    },
+    {
+        "conference": "[MobiSys'20]",
+        "confernce_fullname": "In Proceedings of the International Conference on Mobile Systems, Applications and Services",
+        "title": "Approximate Query Service on Autonomous IoT Cameras",
+        "authors": ["Mengwei Xu", "Xiwen Zhang", "Yunxin Liu", "Gang Huang", "Xuanzhe Liu", "Felix Xiaozhu Lin"],
+        "year": 2020,
+        "addtion": ""
+    },
+    {
+        "conference": "[WWW'19]",
+        "confernce_fullname": "The Web Conference",
+        "title": "A First Look at Deep Learning Apps on Smartphones",
+        "authors": ["Mengwei Xu", "Jiawei Liu", "Yuanqiang Liu", "Felix Xiaozhu Lin", "Yunxin Liu", "Xuanzhe Liu"],
+        "year": 2019,
+        "addtion": ""
+    },
+    {
+        "conference": "[MobiCom'18]",
+        "confernce_fullname": "International Conference on Mobile Computing and Networking",
+        "title": "DeepCache: Principled Cache for Mobile Deep Vision",
+        "authors": ["Mengwei Xu", "Mengze Zhu", "Yunxin Liu", "Felix Xiaozhu Lin", "Xuanzhe Liu"],
+        "year": 2018,
+        "addtion": ""
+    },
+    {
+        "conference": "[IMWUT'18]",
+        "confernce_fullname": "The ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+        "title": "DeepType: On-Device Deep Learning for Input Personalization Service with Minimal Privacy Concern",
+        "authors": ["Mengwei Xu", "Feng Qian", "Qiaozhu Mei", "Kang Huang", "Xuanzhe Liu"],
+        "year": 2018,
+        "addtion": ""
+    },
+    {
+        "conference": "[IMWUT'18]",
+        "confernce_fullname": "The ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+        "title": "PrivacyShield: A Mobile System for Supporting Subtle Just-in-time Privacy Provisioning through Off-Screen-based Touch Gestures",
+        "authors": ["Saumay Pushp", "Yunxin Liu", "Mengwei Xu", "Changyoung Koh", "Junehwa Song"],
+        "year": 2018,
+        "addtion": ""
+    },
+    {
+        "conference": "[EuroSys'18]",
+        "confernce_fullname": "The European Conference on Computer Systems",
+        "title": "Power Sandbox: Power Awareness Redefined",
+        "authors": ["Liwei Guo*", "Tiantu Xu*", "Mengwei Xu", "Xuanzhe Liu", "Felix Xiaozhu Lin"],
+        "year": 2018,
+        "addtion": ""
+    },
+    {
+        "conference": "[WWW'17]",
+        "confernce_fullname": "The International Conference of World Wide Web",
+        "title": "AppHolmes: Detecting and Characterizing App Collusion among Third-Party Android Markets",
+        "authors": ["Mengwei Xu", "Yun Ma", "Xuanzhe Liu", "Felix Xiaozhu Lin", "Yunxin Liu"],
+        "year": 2017,
+        "addtion": ""
+    }
+])

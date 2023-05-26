@@ -1,0 +1,495 @@
+conferences([{
+        "conference": "[arXiv]",
+        "confernce_fullname": null,
+        "title": "SoC-Cluster as an Edge Server: an Application-driven Measurement Study",
+        "authors": ["Li Zhang", "Zhe Fu", "Boqing Shi", "Xiang Li", "Rujin Lai", "Chenyang Chen", "Ao Zhou", "Xiao Ma", "Shangguang Wang", "Mengwei Xu"],
+        "addtion": {
+            "rate": null,
+            "files": [{
+                "name": "paper",
+                "path": "https://arxiv.org/abs/2212.12842.pdf"
+            }],
+            "important_msg": null,
+            "msg": "-- More is different!"
+        }
+    },
+    {
+        "conference": "[IWQoS'23]",
+        "confernce_fullname": "IEEE/ACM International Symposium on Quality of Service 2023",
+        "title": "A Holistic QoS View of Crowdsourced Edge Cloud Platform",
+        "authors": ["Shihao Shen", "Yicheng Feng", "Mengwei Xu", "Cheng Zhang", "Xiaofei Wang", "Wenyu Wang", "Victor C.M.Leung"],
+        "addtion": {
+            "rate": "Acceptance rate = 23.5% (62/264)",
+            "files": [{
+                "name": "paper",
+                "path": "files/IWQoS23-edge-crowdsource.pdf"
+            },
+            {
+            	"name": "data&code",
+            	"path": "https://github.com/76481786/Flexible-Measurement-based-Modeling-Generators"
+            }
+            ],
+            "important_msg": null,
+            "msg": null
+        }
+    },
+    {
+        "conference": "[IWQoS'23]",
+        "confernce_fullname": "IEEE/ACM International Symposium on Quality of Service 2023",
+        "url": "files/IWQoS23-edge-latency.pdf",
+        "title": "How Far Have Edge Clouds Gone? A Spatial-Temporal Analysis of Edge Network Latency In the Wild",
+        "authors": ["Heng Zhang", "Shaoyuan Huang", "Mengwei Xu", "Deke Guo", "Xiaofei Wang", "Victor C.M.Leung", "Wenyu Wang"],
+        "addtion": {
+            "rate": "Acceptance rate = 23.5% (62/264)",
+            "files": [{
+                "name": "paper",
+                "path": "files/IWQoS23-edge-crowdsource.pdf"
+            },
+            {
+            	"name": "data&code",
+            	"path": "https://github.com/henrycoding/IWQoS23EdgeMeasurements"
+            }
+            ],
+            "important_msg": null,
+            "msg": null
+        }
+    },
+    {
+        "conference": "[MobiSys'23]",
+        "confernce_fullname": "International Conference on Mobile Systems, Applications, and Services 2022",
+        "title": "Boosting DNN Cold Inference on Edge Devices",
+        "authors": ["Rongjie Yi", "Ting Cao", "Ao Zhou", "Xiao Ma", "Shangguang Wang", "Mengwei Xu"],
+        "addtion": {
+            "rate": "Acceptance rate = 20.7% (41/198)",
+            "files": [{
+                "name": "paper",
+                "path": "https://arxiv.org/abs/2206.07446"
+            }],
+            "important_msg": null,
+            "msg": "-- Kick off your NN on devices fast!"
+        }
+    },
+    {
+        "conference": "[WWW'23]",
+        "confernce_fullname": "The Web Conference 2023",
+        "title": "ELASTIC: Edge Workload Forecasting based on Collaborative Cloud-Edge Deep Learning",
+        "authors": ["Yanan Li", "Haitao Yuan", "Zhe Fu", "Xiao Ma", "Mengwei Xu", "Shangguang Wang"],
+        "addtion": {
+            "rate": "Acceptance rate = 19.2% (365/1900)",
+            "files": [{
+                "name": "paper",
+                "path": "files/WWW23-ELASTIC.pdf"
+            },
+            {
+            	"name": "slides",
+            	"path": "files/WWW23-ELASTIC-slides.pdf"
+            }
+            ],
+            "important_msg": null,
+            "msg": "-- Edge workloads are predictable!"
+        }
+    },
+    {
+        "conference": "[INFOCOM'23]",
+        "confernce_fullname": "IEEE International Conference on Computer Communications 2023",
+        "title": "Privacy as a Resource in Differentially Private Federated Learning",
+        "authors": ["Jinliang Yuan", "Shangguang Wang", "Shihe Wang", "Yuanchun Li", "Xiao Ma", "Ao Zhou", "Mengwei Xu"],
+        "addtion": {
+            "rate": "Acceptance rate = 19.2% (252/1312)",
+            "files": [{
+                "name": "paper",
+                "path": "files/INFOCOM23-LDPFLSchedule.pdf"
+            },
+            {
+            	"name": "slides",
+            	"path": "files/INFOCOM23-LDPFLSchedule-slides.pdf"
+            },
+            {
+            	"name": "code",
+            	"path": "https://github.com/UbiquitousLearning/FLScheduler"
+            }
+            ],
+            "important_msg": null,
+            "msg": "-- Privacy is a resource in federated learning!"
+        }
+    },
+    {
+        "conference": "[MobiCom'23]",
+        "confernce_fullname": "International Conference on Mobile Computing and Networking 2023",
+        "title": "Resource-Efficient Federated Learning for Modern NLP",
+        "authors": ["Dongqi Cai", "Yaozong Wu", "Shangguang Wang", "Felix Xiaozhu Lin", "Mengwei Xu"],
+        "addtion": {
+            "rate": "Acceptance rate = 29.4% (40/136, summer round)",
+            "files": [{
+                "name": "paper",
+                "path": "https://arxiv.org/abs/2205.10162"
+            }],
+            "important_msg": null,
+            "msg": "-- Training BERT on smartphones: we can do it!"
+        }
+    },
+    {
+        "conference": "[ACM/IEEE SEC'22]",
+        "confernce_fullname": "The Seventh ACM/IEEE Symposium on Edge Computing",
+        "title": "Position Paper: Renovating Edge Servers with ARM SoCs",
+        "authors": ["Mengwei Xu", "Li Zhang", "Shangguang Wang"],
+        "addtion": {
+            "rate": null,
+            "files": [{
+                    "name": "paper",
+                    "path": "files/SEC22-position-paper.pdf"
+                },
+                {
+                    "name": "slides",
+                    "path": "files/SEC22-position-paper-slides.pdf"
+                }
+            ],
+            "important_msg": null,
+            "msg": "-- Making edge servers energy-efficient!"
+        }
+    },
+    {
+        "conference": "[IEEE Satellite'22]",
+        "confernce_fullname": "IEEE International Conference on Satellite Computing",
+        "title": "A Satellite-Born Server Design with Massive Tiny Chips Towards In-Space Computing",
+        "authors": ["Mengwei Xu", "Li Zhang", "Hongyu Li", "Ruolin Xing", "Qibo Sun"],
+        "addtion": {
+            "rate": null,
+            "files": [{
+                    "name": "paper",
+                    "path": "files/Satellites22-server.pdf"
+                },
+                {
+                    "name": "slides",
+                    "path": "files/Satellites-server-slides.pdf"
+                }
+            ],
+            "important_msg": "Best Paper Award",
+            "msg": "-- Maybe, that's how in-space data centers shall look like."
+        }
+    },
+    {
+        "conference": "[MobiCom'22]",
+        "confernce_fullname": "International Conference on Mobile Computing and Networking 2022",
+        "title": "Mandheling: Mixed-Precision On-Device DNN Training with DSP Offloading",
+        "authors": ["Daliang Xu*", "Mengwei Xu*", "Qip eng Wang", "Shangguang Wang", "Yun Ma", "Kang Huang", "Gang Huang", "Xin Jin", "Xuanzhe Liu"],
+        "addtion": {
+            "rate": "Acceptance rate = 18.4% (41/223, winter round)",
+            "files": [{
+                    "name": "paper",
+                    "path": "files/MobiCom22-Mandheling.pdf"
+                },
+                {
+                    "name": "arXiv",
+                    "path": "https://arxiv.org/pdf/2206.07509.pdf"
+                },
+                {
+                    "name": "slides",
+                    "path": "files/MobiCom22-Mandheling-slides.pdf"
+                },
+                {
+                    "name": "code",
+                    "path": "https://github.com/UbiquitousLearning/Mandheling-DSP-Training"
+                }
+            ],
+            "important_msg": null,
+            "msg": "-- Remember: SoC DSPs are so energy-efficient at intensive integer operations!"
+        }
+    },
+    {
+        "conference": "[MobiSys'22]",
+        "confernce_fullname": "International Conference on Mobile Systems, Applications, and Services 2022",
+        "title": "Melon: Breaking the Memory Wall for Resource-Efficient On-Device Machine Learning",
+        "authors": ["Qipeng Wang*", "Mengwei Xu*", "Chao Jin", "Xinran Dong", "Jinliang Yuan", "Xin Jin", "Gang Huang", "Yunxin Liu", "Xuanzhe Liu"],
+        "addtion": {
+            "rate": "Acceptance rate = 21.7% (38/175)",
+            "files": [{
+                    "name": "paper",
+                    "path": "files/MobiSys22-Melo.pdf"
+                },
+                {
+                    "name": "code",
+                    "path": "https://github.com/qipengwang/Melon/"
+                },
+                {
+                    "name": "slides",
+                    "path": "files/MobiSys22-Melo-slides.pdf"
+                }
+            ],
+            "important_msg": "The only paper with 3 artifact evaluation badges in MobiSys'22!",
+            "msg": "-- Let's train large DNNs on smartphones!"
+        }
+    },
+    {
+        "conference": "[WWW'22]",
+        "confernce_fullname": "The Web Conference (WWW) 2022",
+        "title": "A Comprehensive Benchmark of Deep Learning Libraries on Mobile Devices",
+        "authors": ["Qiyang Zhang", "Xiang Li", "Xiangying Che", "Xiao Ma", "Ao Zhou", "Mengwei Xu", "Shangguang Wang", "Yun Ma", "Xuanzhe Liu"],
+        "addtion": {
+            "rate": "Acceptance rate = 17.7% (323/1822)",
+            "files": [{
+                    "name": "paper",
+                    "path": "files/WWW22-MobileDLLibs.pdf"
+                },
+                {
+                    "name": "slides",
+                    "path": "files/WWW22-MobileDLLibs-slides.pdf"
+                },
+                {
+                    "name": "code&data",
+                    "path": "https://github.com/UbiquitousLearning/MobileDLFrameworksBenchmark"
+                }
+            ],
+            "important_msg": null,
+            "msg": "-- There are so many DL libraries... Who's the best?"
+        }
+    },
+    {
+        "conference": "[IMC'21]",
+        "confernce_fullname": "The Internet Measurement Conference (IMC)",
+        "title": "From Cloud to Edge: A First Look at Public Edge Platforms",
+        "authors": ["Mengwei Xu", "Zhe Fu", "Xiao Ma", "Li Zhang", "Yanan Li", "Feng Qian", "Shangguang Wang", "Ke Li", "Jingyu Yang", "Xuanzhe Liu"],
+        "addtion": {
+            "rate": "Acceptance rate = 28.1% (55/196)",
+            "files": [{
+                    "name": "paper",
+                    "path": "files/IMC21-edge.pdf"
+                },
+                {
+                    "name": "arXiv",
+                    "path": "https://arxiv.org/abs/2109.03395"
+                },
+                {
+                    "name": "slides",
+                    "path": "files/IMC21-edge-slides.pdf"
+                },
+                {
+                    "name": "data",
+                    "path": "https://github.com/xumengwei/EdgeWorkloadsTraces"
+                }
+            ],
+            "important_msg": null,
+            "msg": "-- Edge computing is coming!"
+        }
+    },
+    {
+        "conference": "[USENIX ATC'21]",
+        "confernce_fullname": "USENIX ATC 2021",
+        "title": "Video Analytics with Zero-Streaming Cameras",
+        "authors": ["Mengwei Xu*", "Tiantu Xu*", "Yunxin Liu", "and Felix Xiaozhu Lin"],
+        "addtion": {
+            "rate": "Acceptance rate = 18.8% (64/341). Accepted to appear",
+            "files": [{
+                    "name": "paper",
+                    "path": "files/ATC-DIVA.pdf"
+                },
+                {
+                    "name": "arXiv",
+                    "path": "https://arxiv.org/abs/1904.12342"
+                },
+                {
+                    "name": "MobiCom'20 Demo",
+                    "path": "files/MobiCom-Demo-ZC2.pdf"
+                },
+                {
+                    "name": "slides",
+                    "path": "files/ATC-DIVA-slides.pdf"
+                },
+                {
+                    "name": "1-min Demo",
+                    "path": "https://www.youtube.com/watch?v=sy-u-bzk48s"
+                },
+                {
+                    "name": "5-min Demo",
+                    "path": "https://www.youtube.com/watch?v=32pFQ84eufA"
+                }
+            ],
+            "important_msg": null,
+            "msg": "-- A totally new paradigm for video analytics systems"
+        }
+    },
+    {
+        "conference": "[EMDL'21]",
+        "confernce_fullname": "The International Workshop on Embedded and Mobile Deep Learning (EMDL), co-located with ACM International Conference on Mobile Systems, Applications, and Services(MobiSys) 2021",
+        "title": "Towards Ubiquitous Learning: A First Measurement of On-Device Training Performance",
+        "authors": ["Dongqi Cai", "Qipeng Wang", "Yuanqiang Liu", "Yunxin Liu", "Shangguang Wang", "Mengwei Xu"],
+        "addtion": {
+            "rate": null,
+            "files": [{
+                    "name": "paper",
+                    "path": "files/EMDL-DeviceTrain.pdf"
+                },
+                {
+                    "name": "slides",
+                    "path": "files/EMDL-DeviceTrain-slides.pdf"
+                },
+                {
+                    "name": "code",
+                    "path": "https://github.com/UbiquitousLearning/Measurement-Suite-of-On-Device-Training-Performance"
+                }
+            ],
+            "important_msg": null,
+            "msg": "- Time to look at the on-device training system: how can we go further?"
+        }
+    },
+    {
+        "conference": "[WWW'21]",
+        "confernce_fullname": "The Web Conference 2021",
+        "title": "Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data",
+        "authors": ["Chengxu Yang", "Qipeng Wang", "Mengwei Xu", "Shangguang Wang", "Kaigui Bian", "Xuanzhe Liu"],
+        "addtion": {
+            "rate": "Acceptance rate = 20.6% (357/1736)",
+            "files": [{
+                    "name": "paper",
+                    "path": "files/WWW21-HeterFL.pdf"
+                },
+                {
+                    "name": "arXiv",
+                    "path": "https://arxiv.org/pdf/2006.06983.pdf"
+                },
+                {
+                    "name": "slides",
+                    "path": "files/WWW21-HeterFL-slides.pdf"
+                },
+                {
+                    "name": "code & data",
+                    "path": "https://github.com/PKU-Chengxu/FLASH"
+                }
+            ],
+            "important_msg": null,
+            "msg": "-- Keep in mind: federated learning happens on heterogeneous smartphones!"
+        }
+    },
+    {
+        "conference": "[MobiSys'20]",
+        "confernce_fullname": "Proceedings of the International Conference on Mobile Systems, Applications and Services",
+        "title": "Approximate Query Service on Autonomous IoT Cameras",
+        "authors": ["Mengwei Xu", "Xiwen Zhang", "Yunxin Liu", "Gang Huang", "Xuanzhe Liu", "Felix Xiaozhu Lin"],
+        "addtion": {
+            "rate": "Acceptance rate = 19.4% (34/175)",
+            "files": [{
+                    "name": "paper",
+                    "path": "files/MobiSys20-Elf.pdf"
+                },
+                {
+                    "name": "website",
+                    "path": "projects/elf.html"
+                },
+                {
+                    "name": "arXiv",
+                    "path": "https://arxiv.org/abs/1909.00841"
+                },
+                {
+                    "name": "slides",
+                    "path": "files/MobiSys20-Elf-slides.pdf"
+                },
+                {
+                    "name": "presentation",
+                    "path": "https://www.youtube.com/watch?v=VVzbM0LmwNw"
+                },
+                {
+                    "name": "short video",
+                    "path": "https://www.youtube.com/watch?v=x2z_pm3FiD0"
+                }
+            ],
+            "important_msg": null,
+            "msg": "-- Be intelligent and autonomous, my dear camera."
+        }
+    },
+    {
+        "conference": "[WWW'19]",
+        "confernce_fullname": "The Web Conference 2019",
+        "title": "A First Look at Deep Learning Apps on Smartphones",
+        "authors": ["Mengwei Xu", "Jiawei Liu", "Yuanqiang Liu", "Felix Xiaozhu Lin", "Yunxin Liu", "Xuanzhe Liu"],
+        "addtion": {
+            "rate": "Acceptance rate = 18% (225/1247)",
+            "files": [{
+                    "name": "paper",
+                    "path": "files/WWW19-MobileDL.pdf"
+                },
+                {
+                    "name": "arXiv",
+                    "path": "https://arxiv.org/abs/1812.05448"
+                },
+                {
+                    "name": "slides",
+                    "path": "files/WWW19-MobileDL-slides.pdf"
+                },
+                {
+                    "name": "code & data",
+                    "path": "https://github.com/xumengwei/MobileDL"
+                }
+            ],
+            "important_msg": null,
+            "msg": "-- We have interesting findings about how DL is used in real-world smartphone apps!"
+        }
+    },
+    {
+        "conference": "[MobiCom'18]",
+        "confernce_fullname": "Proceedings of the 24th Annual International Conference on Mobile Computing and Networking",
+        "title": "DeepCache: Principled Cache for Mobile Deep Vision",
+        "authors": ["Mengwei Xu", "Mengze Zhu", "Yunxin Liu", "Felix Xiaozhu Lin", "and Xuanzhe Liu"],
+        "addtion": {
+            "rate": "Acceptance rate = 22% (42/187)",
+            "files": [{
+                    "name": "paper",
+                    "path": "files/MobiCom18-DeepCache.pdf"
+                },
+                {
+                    "name": "arXiv",
+                    "path": "https://arxiv.org/abs/1712.01670"
+                },
+                {
+                    "name": "slides",
+                    "path": "files/MobiCom18-DeepCache-slides.pdf"
+                },
+                {
+                    "name": "code",
+                    "path": "https://github.com/xumengwei/DeepCache"
+                },
+                {
+                    "name": "short video",
+                    "path": "https://www.youtube.com/watch?v=e--h37_VD0k"
+                }
+            ],
+            "important_msg": null,
+            "msg": "-- A fine-grained cache system to reduce CNN computations on redundant input."
+        }
+    },
+    {
+        "conference": "[IMWUT'18]",
+        "confernce_fullname": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+        "title": "DeepType: On-Device Deep Learning for Input Personalization Service with Minimal Privacy Concern",
+        "authors": ["Mengwei Xu", "Feng Qian", "Qiaozhu Mei", "Kang Huang", "and Xuanzhe Liu"],
+        "addtion": {
+            "rate": null,
+            "files": [{
+                    "name": "paper",
+                    "path": "files/UbiComp-DeepType.pdf"
+                },
+                {
+                    "name": "slides",
+                    "path": "files/UbiComp-DeepType-slides.pdf"
+                }
+            ],
+            "important_msg": null,
+            "msg": "-- AFAIK, the first work to demonstrate the benefit and feasibility to <b> train </b> DNNs on smartphones."
+        }
+    },
+    {
+        "conference": "[WWW'17]",
+        "confernce_fullname": "Proceedings of the 26th International World Wide Web Conference",
+        "title": "AppHolmes: Detecting and Characterizing App Collusion among Third-Party Android Markets",
+        "authors": ["Mengwei Xu", "Yun Ma", "Xuanzhe Liu", "Felix Xiaozhu Lin and Yunxin Liu"],
+        "addtion": {
+            "rate": "Acceptance rate = 17 % (164/966)",
+            "files": [{
+                "name": "paper",
+                "path": "files/WWW17-AppHolmes.pdf"
+            }],
+            "important_msg": null,
+            "msg": "-- Your apps can maliciously start each other from background."
+        }
+    }
+
+])
