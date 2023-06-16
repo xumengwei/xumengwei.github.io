@@ -14,6 +14,55 @@ conferences([{
         }
     },
     {
+        "conference": "[MobiCom'23]",
+        "confernce_fullname": "International Conference on Mobile Computing and Networking 2023",
+        "title": "Federated Few-shot Learning for Mobile NLP",
+        "authors": ["Dongqi Cai", "Yaozong Wu", "Shangguang Wang", "Felix Xiaozhu Lin", "Mengwei Xu"],
+        "addtion": {
+            "rate": "(being shepherd)",
+            "files": [{
+                "name": "paper",
+                "path": "https://arxiv.org/abs/2205.10162"
+            },
+            {
+                "name": "Short Version (EuroMLSys'23)",
+                "path": "files/EuroMLSys23-FedPrompt.pdf"
+            }],
+            "important_msg": null,
+            "msg": "-- No labels, no problem!"
+        }
+    },
+    {
+        "conference": "[MobiCom'23]",
+        "confernce_fullname": "International Conference on Mobile Computing and Networking 2023",
+        "title": "Resource-Efficient Federated Learning for Modern NLP",
+        "authors": ["Dongqi Cai", "Yaozong Wu", "Shangguang Wang", "Felix Xiaozhu Lin", "Mengwei Xu"],
+        "addtion": {
+            "rate": "Acceptance rate = 29.4% (40/136, summer round)",
+            "files": [{
+                "name": "paper",
+                "path": "https://arxiv.org/abs/2205.10162"
+            }],
+            "important_msg": null,
+            "msg": "-- Training BERT on smartphones: we can do it!"
+        }
+    },
+    {
+        "conference": "[MobiSys'23]",
+        "confernce_fullname": "International Conference on Mobile Systems, Applications, and Services 2022",
+        "title": "Boosting DNN Cold Inference on Edge Devices",
+        "authors": ["Rongjie Yi", "Ting Cao", "Ao Zhou", "Xiao Ma", "Shangguang Wang", "Mengwei Xu"],
+        "addtion": {
+            "rate": "Acceptance rate = 20.7% (41/198)",
+            "files": [{
+                "name": "paper",
+                "path": "https://arxiv.org/abs/2206.07446"
+            }],
+            "important_msg": null,
+            "msg": "-- Kick off your NN on devices fast!"
+        }
+    },
+    {
         "conference": "[IWQoS'23]",
         "confernce_fullname": "IEEE/ACM International Symposium on Quality of Service 2023",
         "title": "A Holistic QoS View of Crowdsourced Edge Cloud Platform",
@@ -52,21 +101,6 @@ conferences([{
             ],
             "important_msg": null,
             "msg": null
-        }
-    },
-    {
-        "conference": "[MobiSys'23]",
-        "confernce_fullname": "International Conference on Mobile Systems, Applications, and Services 2022",
-        "title": "Boosting DNN Cold Inference on Edge Devices",
-        "authors": ["Rongjie Yi", "Ting Cao", "Ao Zhou", "Xiao Ma", "Shangguang Wang", "Mengwei Xu"],
-        "addtion": {
-            "rate": "Acceptance rate = 20.7% (41/198)",
-            "files": [{
-                "name": "paper",
-                "path": "https://arxiv.org/abs/2206.07446"
-            }],
-            "important_msg": null,
-            "msg": "-- Kick off your NN on devices fast!"
         }
     },
     {
@@ -111,21 +145,6 @@ conferences([{
             ],
             "important_msg": null,
             "msg": "-- Privacy is a resource in federated learning!"
-        }
-    },
-    {
-        "conference": "[MobiCom'23]",
-        "confernce_fullname": "International Conference on Mobile Computing and Networking 2023",
-        "title": "Resource-Efficient Federated Learning for Modern NLP",
-        "authors": ["Dongqi Cai", "Yaozong Wu", "Shangguang Wang", "Felix Xiaozhu Lin", "Mengwei Xu"],
-        "addtion": {
-            "rate": "Acceptance rate = 29.4% (40/136, summer round)",
-            "files": [{
-                "name": "paper",
-                "path": "https://arxiv.org/abs/2205.10162"
-            }],
-            "important_msg": null,
-            "msg": "-- Training BERT on smartphones: we can do it!"
         }
     },
     {
