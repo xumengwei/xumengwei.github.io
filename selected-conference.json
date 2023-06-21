@@ -56,7 +56,15 @@ conferences([{
             "rate": "Acceptance rate = 20.7% (41/198)",
             "files": [{
                 "name": "paper",
-                "path": "https://arxiv.org/abs/2206.07446"
+                "path": "files/MobiSys23-NNV12.pdf"
+            },
+            {
+                "name": "code",
+                "path": "https://github.com/UbiquitousLearning/NNV12"
+            },
+            {
+                "name": "slides",
+                "path": "files/MobiSys23-NNV12-slides.pdf"
             }],
             "important_msg": null,
             "msg": "-- Kick off your NN on devices fast!"
