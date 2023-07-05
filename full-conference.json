@@ -7,6 +7,14 @@ conferences([{
         "addtion": ""
     },
     {
+        "conference": "[ICPP'22]",
+        "confernce_fullname": "IEEE/ACM International Symposium on Quality of Service",
+        "title": "Tango: Harmonious Management and Scheduling for Mixed Services Co-located among Distributed Edge-Clouds",
+        "authors": ["Yicheng Feng", "Shihao Shen", "Mengwei Xu", "Yuanming Ren", "Xiaofei Wang", "Victor C.M. Leung", "Wenyu Wang"],
+        "year": 2022,
+        "addtion": ""
+    },
+    {
         "conference": "[IWQoS'23]",
         "confernce_fullname": "IEEE/ACM International Symposium on Quality of Service",
         "title": "A Holistic QoS View of Crowdsourced Edge Cloud Platform",
@@ -43,6 +51,14 @@ conferences([{
         "confernce_fullname": "IEEE International Conference on Computer Communications",
         "title": "Privacy as a Resource in Differentially Private Federated Learning",
         "authors": ["Jinliang Yuan", "Shangguang Wang", "Shihe Wang", "Yuanchun Li", "Xiao Ma", "Ao Zhou", "Mengwei Xu"],
+        "year": 2023,
+        "addtion": ""
+    },
+    {
+        "conference": "[MobiCom'23]",
+        "confernce_fullname": "International Conference on Mobile Computing and Networking",
+        "title": "Federated Few-shot Learning for Mobile NLP",
+        "authors": ["Dongqi Cai", "Yaozong Wu", "Shangguang Wang", "Felix Xiaozhu Lin", "Mengwei Xu"],
         "year": 2023,
         "addtion": ""
     },
