@@ -1,4 +1,5 @@
-conferences([{
+conferences([
+    {
         "conference": "[arXiv]",
         "confernce_fullname": null,
         "title": "SoC-Cluster as an Edge Server: an Application-driven Measurement Study",
@@ -11,6 +12,34 @@ conferences([{
             }],
             "important_msg": null,
             "msg": "-- More is different!"
+        }
+    },
+    {
+        "conference": "[ASPLOS'23]",
+        "confernce_fullname": "International Conference on Architectural Support for Programming Languages and Operating Systems",
+        "title": "SoCFlow: Efficient and Scalable DNN Training on SoC-Clustered Edge Servers",
+        "authors": ["Daliang Xu", "Mengwei Xu", "Chiheng Lou", "Li Zhang", "Gang Huang", "Xin Jin", "Xuanzhe Liu"],
+        "addtion": {
+            "rate": "Acceptance rate = 16.2% (28/173, spring cycle). <i>Conditional Accept</i>",
+            // "files": [{
+            //         "name": "paper",
+            //         "path": "files/MobiCom22-Mandheling.pdf"
+            //     },
+            //     {
+            //         "name": "arXiv",
+            //         "path": "https://arxiv.org/pdf/2206.07509.pdf"
+            //     },
+            //     {
+            //         "name": "slides",
+            //         "path": "files/MobiCom22-Mandheling-slides.pdf"
+            //     },
+            //     {
+            //         "name": "code",
+            //         "path": "https://github.com/UbiquitousLearning/Mandheling-DSP-Training"
+            //     }
+            // ],
+            "important_msg": null,
+            "msg": "-- Training on edge SoCs, why not!"
         }
     },
     {
@@ -175,31 +204,31 @@ conferences([{
             "msg": "-- Making edge servers energy-efficient!"
         }
     },
-    {
-        "conference": "[IEEE Satellite'22]",
-        "confernce_fullname": "IEEE International Conference on Satellite Computing",
-        "title": "A Satellite-Born Server Design with Massive Tiny Chips Towards In-Space Computing",
-        "authors": ["Mengwei Xu", "Li Zhang", "Hongyu Li", "Ruolin Xing", "Qibo Sun"],
-        "addtion": {
-            "rate": null,
-            "files": [{
-                    "name": "paper",
-                    "path": "files/Satellites22-server.pdf"
-                },
-                {
-                    "name": "slides",
-                    "path": "files/Satellites-server-slides.pdf"
-                }
-            ],
-            "important_msg": "Best Paper Award",
-            "msg": "-- Maybe, that's how in-space data centers shall look like."
-        }
-    },
+    // {
+    //     "conference": "[IEEE Satellite'22]",
+    //     "confernce_fullname": "IEEE International Conference on Satellite Computing",
+    //     "title": "A Satellite-Born Server Design with Massive Tiny Chips Towards In-Space Computing",
+    //     "authors": ["Mengwei Xu", "Li Zhang", "Hongyu Li", "Ruolin Xing", "Qibo Sun"],
+    //     "addtion": {
+    //         "rate": null,
+    //         "files": [{
+    //                 "name": "paper",
+    //                 "path": "files/Satellites22-server.pdf"
+    //             },
+    //             {
+    //                 "name": "slides",
+    //                 "path": "files/Satellites-server-slides.pdf"
+    //             }
+    //         ],
+    //         "important_msg": "Best Paper Award",
+    //         "msg": "-- Maybe, that's how in-space data centers shall look like."
+    //     }
+    // },
     {
         "conference": "[MobiCom'22]",
         "confernce_fullname": "International Conference on Mobile Computing and Networking 2022",
         "title": "Mandheling: Mixed-Precision On-Device DNN Training with DSP Offloading",
-        "authors": ["Daliang Xu*", "Mengwei Xu*", "Qip eng Wang", "Shangguang Wang", "Yun Ma", "Kang Huang", "Gang Huang", "Xin Jin", "Xuanzhe Liu"],
+        "authors": ["Daliang Xu*", "Mengwei Xu*", "Qipeng Wang", "Shangguang Wang", "Yun Ma", "Kang Huang", "Gang Huang", "Xin Jin", "Xuanzhe Liu"],
         "addtion": {
             "rate": "Acceptance rate = 18.4% (41/223, winter round)",
             "files": [{

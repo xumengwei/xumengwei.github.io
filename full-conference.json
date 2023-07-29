@@ -1,4 +1,13 @@
-conferences([{
+conferences([
+    {
+        "conference": "[ASPLOS'23]",
+        "confernce_fullname": "International Conference on Architectural Support for Programming Languages and Operating Systems",
+        "title": "SoCFlow: Efficient and Scalable DNN Training on SoC-Clustered Edge Servers",
+        "authors": ["Daliang Xu", "Mengwei Xu", "Chiheng Lou", "Li Zhang", "Gang Huang", "Xin Jin", "Xuanzhe Liu"],
+        "year": 2023,
+        "addtion": ""
+    },
+    {
         "conference": "[EuroMLSys'23]",
         "confernce_fullname": "The 3rd Workshop on Machine Learning and Systems",
         "title": "Towards Practical Few-shot Federated NLP",
