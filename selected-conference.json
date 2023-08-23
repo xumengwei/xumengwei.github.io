@@ -43,6 +43,24 @@ conferences([
         }
     },
     {
+        "conference": "[SIGMOD'24]",
+        "confernce_fullname": "International Conference on Management of Data 2024",
+        "title": "Demystifying the QoS and QoE of Edge-hosted Video Streaming Applications in the Wild with SNESet",
+        "authors": ["Yanan Li", "Guangqing Deng", "Changming Bai", "Jingyu Yang", "Gang Wang", "Hao Zhang", "Jin Bai", "Haitao Yuan", "Mengwei Xu", "Shangguang Wang"],
+        "addtion": {
+            // "files": [{
+            //     "name": "paper",
+            //     "path": "https://arxiv.org/abs/2205.10162"
+            // },
+            // {
+            //     "name": "Short Version (EuroMLSys'23)",
+            //     "path": "files/EuroMLSys23-FedPrompt.pdf"
+            // }],
+            "important_msg": null,
+            // "msg": "-- No labels, no problem!"
+        }
+    },
+    {
         "conference": "[MobiCom'23]",
         "confernce_fullname": "International Conference on Mobile Computing and Networking 2023",
         "title": "Federated Few-shot Learning for Mobile NLP",

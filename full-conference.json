@@ -8,6 +8,14 @@ conferences([
         "addtion": ""
     },
     {
+        "conference": "[SIGMOD'24]",
+        "confernce_fullname": "International Conference on Management of Data",
+        "title": "Demystifying the QoS and QoE of Edge-hosted Video Streaming Applications in the Wild with SNESet",
+        "authors": ["Yanan Li", "Guangqing Deng", "Changming Bai", "Jingyu Yang", "Gang Wang", "Hao Zhang", "Jin Bai", "Haitao Yuan", "Mengwei Xu", "Shangguang Wang"],
+        "year": 2024,
+        "addtion": ""
+    },
+    {
         "conference": "[EuroMLSys'23]",
         "confernce_fullname": "The 3rd Workshop on Machine Learning and Systems",
         "title": "Towards Practical Few-shot Federated NLP",
