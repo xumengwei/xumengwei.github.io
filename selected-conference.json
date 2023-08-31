@@ -11,14 +11,59 @@ conferences([
                 "path": "https://arxiv.org/abs/2212.12842.pdf"
             }],
             "important_msg": null,
-            "msg": "-- More is different!"
+            // "msg": "-- More is different!"
+        }
+    },
+    {
+        "conference": "[arXiv]",
+        "confernce_fullname": null,
+        "title": "Rethinking Mobile AI Ecosystem in the LLM Era",
+        "authors": ["Jinliang Yuan*", "Chen Yang*", "Dongqi Cai*", "Shihe Wang", "Xin Yuan", "Zeling Zhang", "Xiang Li", "Dingge Zhang", "Hanzi Mei", "Xianqing Jia", "Shangguang Wang", "Mengwei Xu"],
+        "addtion": {
+            "rate": null,
+            "files": [{
+                "name": "paper",
+                "path": "https://arxiv.org/pdf/2308.14363.pdf"
+            }],
+            "important_msg": null,
+            // "msg": "-- More is different!"
+        }
+    },
+    {
+        "conference": "[arXiv]",
+        "confernce_fullname": null,
+        "title": "Federated Fine-tuning of Billion-Sized Language Models across Mobile Devices",
+        "authors": ["Mengwei Xu", "Yaozong Wu", "Dongqi Cai", "Xiang Li", "Shangguang Wang"],
+        "addtion": {
+            "rate": null,
+            "files": [{
+                "name": "paper",
+                "path": "https://arxiv.org/pdf/2308.13894.pdf"
+            }],
+            "important_msg": null,
+            // "msg": "-- More is different!"
+        }
+    },
+    {
+        "conference": "[arXiv]",
+        "confernce_fullname": null,
+        "title": "EdgeMoE: Fast On-Device Inference of MoE-based Large Language Models",
+        "authors": ["Rongjie Yi", "Liwei Guo", "Shiyun Wei", "Ao Zhou", "Shangguang Wang", "Mengwei Xu"],
+        "addtion": {
+            "rate": null,
+            "files": [{
+                "name": "paper",
+                "path": "https://arxiv.org/pdf/2308.14352.pdf"
+            }],
+            "important_msg": null,
+            // "msg": "-- More is different!"
         }
     },
     {
         "conference": "[ASPLOS'24]",
         "confernce_fullname": "International Conference on Architectural Support for Programming Languages and Operating Systems",
         "title": "SoCFlow: Efficient and Scalable DNN Training on SoC-Clustered Edge Servers",
-        "authors": ["Daliang Xu", "Mengwei Xu", "Chiheng Lou", "Li Zhang", "Gang Huang", "Xin Jin", "Xuanzhe Liu"],
+        "authors": ["Daliang Xu*", "Mengwei Xu*", "Chiheng Lou", "Li Zhang", "Gang Huang", "Xin Jin", "Xuanzhe Liu"],
         "addtion": {
             "rate": "Acceptance rate = 16.2% (28/173, spring cycle). <i>Conditional Accept</i>",
             // "files": [{
