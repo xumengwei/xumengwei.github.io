@@ -112,13 +112,22 @@ conferences([
         "authors": ["Dongqi Cai", "Yaozong Wu", "Shangguang Wang", "Felix Xiaozhu Lin", "Mengwei Xu"],
         "addtion": {
             "rate": "(being shepherd)",
-            "files": [{
+            "files": [
+            {
                 "name": "paper",
-                "path": "https://arxiv.org/abs/2205.10162"
+                "path": "files/MobiCom23-FeS.pdf"
+            },
+            {
+                "name": "arXiv",
+                "path": "https://arxiv.org/abs/2212.05974"
             },
             {
                 "name": "Short Version (EuroMLSys'23)",
                 "path": "files/EuroMLSys23-FedPrompt.pdf"
+            },
+            {
+                "name": "code",
+                "path": "https://github.com/UbiquitousLearning/FeS"
             }],
             "important_msg": null,
             "msg": "-- No labels, no problem!"
@@ -131,9 +140,18 @@ conferences([
         "authors": ["Dongqi Cai", "Yaozong Wu", "Shangguang Wang", "Felix Xiaozhu Lin", "Mengwei Xu"],
         "addtion": {
             "rate": "Acceptance rate = 29.4% (40/136, summer round)",
-            "files": [{
+            "files": [
+            {
                 "name": "paper",
+                "path": "files/MobiCom23-AdaFL.pdf"
+            },
+            {
+                "name": "arXiv",
                 "path": "https://arxiv.org/abs/2205.10162"
+            },
+            {
+                "name": "code",
+                "path": "https://github.com/UbiquitousLearning/FedAdapter"
             }],
             "important_msg": null,
             "msg": "-- Training BERT on smartphones: we can do it!"

@@ -3,7 +3,7 @@ conferences([
         "conference": "[ASPLOS'24]",
         "confernce_fullname": "International Conference on Architectural Support for Programming Languages and Operating Systems",
         "title": "SoCFlow: Efficient and Scalable DNN Training on SoC-Clustered Edge Servers",
-        "authors": ["Daliang Xu", "Mengwei Xu", "Chiheng Lou", "Li Zhang", "Gang Huang", "Xin Jin", "Xuanzhe Liu"],
+        "authors": ["Daliang Xu*", "Mengwei Xu*", "Chiheng Lou", "Li Zhang", "Gang Huang", "Xin Jin", "Xuanzhe Liu"],
         "year": 2024,
         "addtion": ""
     },
