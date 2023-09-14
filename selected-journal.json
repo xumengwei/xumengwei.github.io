@@ -29,7 +29,7 @@ journals([
     {
         "journal": "[JoS'20]",
         "journal_fullname": "Journal of Software",
-        "title": "Autonomous Learning System towards Mobile Intelligence(in Chinese)",
+        "title": "Autonomous Learning System towards Mobile Intelligence (in Chinese)",
         "authors": ["Mengwei Xu", "Yuanqiang Liu", "Kang Huang", "Xuanzhe Liu", "Gang Huang"],
         "files": [{
             "name": "pdf",
