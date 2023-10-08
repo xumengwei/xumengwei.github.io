@@ -1,5 +1,13 @@
 journals([
     {
+        "journal": "[W3J'23]",
+        "journal_fullname": "Internet and Web Information Systems",
+        "title": "A large-scale holistic measurement of crowdsourced edge cloud platform",
+        "authors": ["Yicheng Feng", "Shihao Shen", "Mengwei Xu", "Cheng Zhang", "Xin Wang", "Xiaofei Wang", "Wenyu Wang", "Victor Leung"],
+        "year": 2023,
+        "addtion": ""
+    },
+    {
         "journal": "[TMC'23]",
         "journal_fullname": "IEEE Transactions on Mobile Computing",
         "title": "A Comprehensive Deep Learning Library Benchmark and Optimal Library Selection",

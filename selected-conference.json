@@ -7,8 +7,23 @@ conferences([
         "addtion": {
             "rate": null,
             "files": [{
-                "name": "paper",
+                "name": "arXiv",
                 "path": "https://arxiv.org/abs/2212.12842.pdf"
+            }],
+            "important_msg": null,
+            // "msg": "-- More is different!"
+        }
+    },
+    {
+        "conference": "[arXiv]",
+        "confernce_fullname": null,
+        "title": "LLMCad: Fast and Scalable On-device Large Language Model Inference",
+        "authors": ["Daliang Xu", "Wangsong Yin", "Xin Jin", "Ying Zhang", "Shiyun Wei", "Mengwei Xu", "Xuanzhe Liu"],
+        "addtion": {
+            "rate": null,
+            "files": [{
+                "name": "arXiv",
+                "path": "https://arxiv.org/pdf/2309.04255"
             }],
             "important_msg": null,
             // "msg": "-- More is different!"
@@ -22,7 +37,7 @@ conferences([
         "addtion": {
             "rate": null,
             "files": [{
-                "name": "paper",
+                "name": "arXiv",
                 "path": "https://arxiv.org/pdf/2308.14363.pdf"
             }],
             "important_msg": null,
@@ -37,7 +52,7 @@ conferences([
         "addtion": {
             "rate": null,
             "files": [{
-                "name": "paper",
+                "name": "arXiv",
                 "path": "https://arxiv.org/pdf/2308.13894.pdf"
             }],
             "important_msg": null,
@@ -52,7 +67,7 @@ conferences([
         "addtion": {
             "rate": null,
             "files": [{
-                "name": "paper",
+                "name": "arXiv",
                 "path": "https://arxiv.org/pdf/2308.14352.pdf"
             }],
             "important_msg": null,
@@ -66,23 +81,11 @@ conferences([
         "authors": ["Daliang Xu*", "Mengwei Xu*", "Chiheng Lou", "Li Zhang", "Gang Huang", "Xin Jin", "Xuanzhe Liu"],
         "addtion": {
             "rate": "Acceptance rate = 16.2% (28/173, spring cycle). <i>Conditional Accept</i>",
-            // "files": [{
-            //         "name": "paper",
-            //         "path": "files/MobiCom22-Mandheling.pdf"
-            //     },
-            //     {
-            //         "name": "arXiv",
-            //         "path": "https://arxiv.org/pdf/2206.07509.pdf"
-            //     },
-            //     {
-            //         "name": "slides",
-            //         "path": "files/MobiCom22-Mandheling-slides.pdf"
-            //     },
-            //     {
-            //         "name": "code",
-            //         "path": "https://github.com/UbiquitousLearning/Mandheling-DSP-Training"
-            //     }
-            // ],
+            "files": [{
+                    "name": "paper",
+                    "path": "files/ASPLOS24-SoCFlow.pdf"
+                }
+            ],
             "important_msg": null,
             "msg": "-- Training on edge SoCs, why not!"
         }
@@ -118,6 +121,10 @@ conferences([
                 "path": "files/MobiCom23-FeS.pdf"
             },
             {
+                "name": "slides",
+                "path": "files/MobiCom23-FeS-slides.pdf"
+            },
+            {
                 "name": "arXiv",
                 "path": "https://arxiv.org/abs/2212.05974"
             },
@@ -144,6 +151,10 @@ conferences([
             {
                 "name": "paper",
                 "path": "files/MobiCom23-AdaFL.pdf"
+            },
+            {
+                "name": "slides",
+                "path": "files/MobiCom23-AdaFL-slides.pdf"
             },
             {
                 "name": "arXiv",
