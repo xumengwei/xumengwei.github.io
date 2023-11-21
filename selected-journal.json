@@ -2,6 +2,14 @@ journals([
     {
         "journal": "[TMC'23]",
         "journal_fullname": "IEEE Transactions on Mobile Computing",
+        "title": "Seamless Cross-Edge Service Migration for Real-Time Rendering Applications",
+        "authors": ["Yuanzhe Li", "Shangguang Wang", "Yuanchun Li", "Ao Zhou", "Mengwei Xu", "Xiao Ma", "Yunxin Liu"],
+        "files": null,
+        "msg": null
+    },
+    {
+        "journal": "[TMC'23]",
+        "journal_fullname": "IEEE Transactions on Mobile Computing",
         "title": "A Comprehensive Deep Learning Library Benchmark and Optimal Library Selection",
         "authors": ["Qiyang Zhang", "Xiangying Che", " Yijie Chen", "Xiao Ma", "Mengwei Xu", "Schahram Dustdar", "Xuanzhe Liu", "Shangguang Wang"],
         "files": null,

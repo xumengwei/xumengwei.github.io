@@ -32,21 +32,6 @@ conferences([
     {
         "conference": "[arXiv]",
         "confernce_fullname": null,
-        "title": "Rethinking Mobile AI Ecosystem in the LLM Era",
-        "authors": ["Jinliang Yuan*", "Chen Yang*", "Dongqi Cai*", "Shihe Wang", "Xin Yuan", "Zeling Zhang", "Xiang Li", "Dingge Zhang", "Hanzi Mei", "Xianqing Jia", "Shangguang Wang", "Mengwei Xu"],
-        "addtion": {
-            "rate": null,
-            "files": [{
-                "name": "arXiv",
-                "path": "https://arxiv.org/pdf/2308.14363.pdf"
-            }],
-            "important_msg": null,
-            // "msg": "-- More is different!"
-        }
-    },
-    {
-        "conference": "[arXiv]",
-        "confernce_fullname": null,
         "title": "Federated Fine-tuning of Billion-Sized Language Models across Mobile Devices",
         "authors": ["Mengwei Xu", "Yaozong Wu", "Dongqi Cai", "Xiang Li", "Shangguang Wang"],
         "addtion": {
@@ -75,12 +60,40 @@ conferences([
         }
     },
     {
+        "conference": "[MobiCom'24]",
+        "confernce_fullname": "International Conference on Mobile Computing and Networking 2023 (conditional accept)",
+        "title": "Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis",
+        "authors": ["Ruolin Xing", "Mengwei Xu", "Ao Zhou", "Qing Li", "Yiran Zhang", "Feng Qian", "Shangguang Wang"],
+        "addtion": {
+            "rate": "Acceptance rate = 23.2% (48/207, summer round)",
+            "files": [{
+                "name": "paper",
+                "path": "#"
+            }],
+            "msg": "Looking into computing in space",
+        }
+    },
+    {
+        "conference": "[MobiCom'24]",
+        "confernce_fullname": "International Conference on Mobile Computing and Networking 2023 (conditional accept)",
+        "title": "Rethinking Mobile AI Ecosystem in the LLM Era",
+        "authors": ["Jinliang Yuan*", "Chen Yang*", "Dongqi Cai*", "Shihe Wang", "Xin Yuan", "Zeling Zhang", "Xiang Li", "Dingge Zhang", "Hanzi Mei", "Xianqing Jia", "Shangguang Wang", "Mengwei Xu"],
+        "addtion": {
+            "rate": "Acceptance rate = 23.2% (48/207, summer round)",
+            "files": [{
+                "name": "arXiv",
+                "path": "https://arxiv.org/pdf/2308.14363.pdf"
+            }],
+            "msg": "One-size-fits-all model for mobile AI",
+        }
+    },
+    {
         "conference": "[ASPLOS'24]",
         "confernce_fullname": "International Conference on Architectural Support for Programming Languages and Operating Systems",
         "title": "SoCFlow: Efficient and Scalable DNN Training on SoC-Clustered Edge Servers",
         "authors": ["Daliang Xu*", "Mengwei Xu*", "Chiheng Lou", "Li Zhang", "Gang Huang", "Xin Jin", "Xuanzhe Liu"],
         "addtion": {
-            "rate": "Acceptance rate = 16.2% (28/173, spring cycle). <i>Conditional Accept</i>",
+            "rate": "Acceptance rate = 16.2% (28/173, spring cycle).",
             "files": [{
                     "name": "paper",
                     "path": "files/ASPLOS24-SoCFlow.pdf"
@@ -96,14 +109,14 @@ conferences([
         "title": "Demystifying the QoS and QoE of Edge-hosted Video Streaming Applications in the Wild with SNESet",
         "authors": ["Yanan Li", "Guangqing Deng", "Changming Bai", "Jingyu Yang", "Gang Wang", "Hao Zhang", "Jin Bai", "Haitao Yuan", "Mengwei Xu", "Shangguang Wang"],
         "addtion": {
-            // "files": [{
-            //     "name": "paper",
-            //     "path": "https://arxiv.org/abs/2205.10162"
-            // },
-            // {
-            //     "name": "Short Version (EuroMLSys'23)",
-            //     "path": "files/EuroMLSys23-FedPrompt.pdf"
-            // }],
+            "files": [{
+                "name": "paper",
+                "path": "files/SIGMOD24-EdgeQoE.pdf"
+            },
+            {
+                "name": "dataset",
+                "path": "https://github.com/YananLi18/SNESet"
+            }],
             "important_msg": null,
             // "msg": "-- No labels, no problem!"
         }
@@ -114,7 +127,7 @@ conferences([
         "title": "Federated Few-shot Learning for Mobile NLP",
         "authors": ["Dongqi Cai", "Yaozong Wu", "Shangguang Wang", "Felix Xiaozhu Lin", "Mengwei Xu"],
         "addtion": {
-            "rate": "(being shepherd)",
+            "rate": "",
             "files": [
             {
                 "name": "paper",
