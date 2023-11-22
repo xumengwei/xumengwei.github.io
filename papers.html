@@ -74,6 +74,8 @@
                 function conferences(result) {
                     document.write('<ul><div id="conference-example">');
                     for (i = 0; i < result.length; i++) {
+                        if(!result[i].show_selected)
+                            continue;
                         document.write('<p class="pubEntry"><li><b>');
                         // title
                         if (result[i].conference != '[arXiv]')
@@ -129,7 +131,7 @@
                 }
             </script>
 
-            <script type="text/javascript" src="selected-conference.json?callback=conferences"></script>
+            <script type="text/javascript" src="full-conference.json?callback=conferences"></script>
 
 
             <!-- <hr size="30" color="#cfd8dc"> -->
@@ -140,7 +142,9 @@
             <script>
                 function journals(result) {
                     document.write('<ul><div id="journal-example">');
-                    for (i = 0; i < result.length; i++) {
+                    for (i = 0; i < result.length ; i++) {
+                        if(!result[i].show_selected)
+                            continue;
                         document.write('<ul><div id="journal-example">');
                         document.write('<p class="pubEntry"><li><b>');
                         // title
@@ -191,7 +195,7 @@
                 }
             </script>
 
-            <script type="text/javascript" src="selected-journal.json?callback=journals"></script>
+            <script type="text/javascript" src="full-journal.json?callback=journals"></script>
         </div>
 
 

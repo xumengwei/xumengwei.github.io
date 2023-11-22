@@ -2,6 +2,7 @@ journals([
     {
         "journal": "[W3J'23]",
         "journal_fullname": "Internet and Web Information Systems",
+        "show_selected": false,
         "title": "A large-scale holistic measurement of crowdsourced edge cloud platform",
         "authors": ["Yicheng Feng", "Shihao Shen", "Mengwei Xu", "Cheng Zhang", "Xin Wang", "Xiaofei Wang", "Wenyu Wang", "Victor Leung"],
         "year": 2023,
@@ -10,14 +11,29 @@ journals([
     {
         "journal": "[TMC'23]",
         "journal_fullname": "IEEE Transactions on Mobile Computing",
+        "show_selected": true,
+        "title": "Seamless Cross-Edge Service Migration for Real-Time Rendering Applications",
+        "authors": ["Yuanzhe Li", "Shangguang Wang", "Yuanchun Li", "Ao Zhou", "Mengwei Xu", "Xiao Ma", "Yunxin Liu"],
+        "files": null,
+        "msg": null,
+        "year": 2023,
+        "addtion": ""
+    },
+    {
+        "journal": "[TMC'23]",
+        "journal_fullname": "IEEE Transactions on Mobile Computing",
+        "show_selected": true,
         "title": "A Comprehensive Deep Learning Library Benchmark and Optimal Library Selection",
         "authors": ["Qiyang Zhang", "Xiangying Che", " Yijie Chen", "Xiao Ma", "Mengwei Xu", "Schahram Dustdar", "Xuanzhe Liu", "Shangguang Wang"],
+        "files": null,
+        "msg": null,
         "year": 2023,
         "addtion": ""
     },
     {
         "journal": "[TBD'22]",
         "journal_fullname": "IEEE Transactions on Big Data",
+        "show_selected": false,
         "title": "Resource-Aware Federated Neural Architecture Search over Heterogeneous Mobile Devices",
         "authors": ["Jinliang Yuan", "Mengwei Xu", "Yuxin Zhao", "Kaigui Bian", "Gang Huang", "Xuanzhe Liu", "Shangguang Wang"],
         "year": 2022,
@@ -26,22 +42,32 @@ journals([
     {
         "journal": "[TMC'22]",
         "journal_fullname": "IEEE Transactions on Mobile Computing",
+        "show_selected": true,
         "title": "FLASH: Heterogeneity-Aware Federated Learning at Scale",
         "authors": ["Chengxu Yang", "Mengwei Xu", "Qipeng Wang", "Zhenpeng Chen", "Kang Huang", "Yun Ma", "Kaigui Bian", "Gang Huang", "Yunxin Liu", "Xin Jin", "Xuanzhe Liu"],
+        "files": [{
+            "name": "pdf",
+            "path": "files/TMC22-FLASH.pdf"
+        }],
+        "msg": null,
         "year": 2022,
         "addtion": ""
     },
     {
         "journal": "[IEEE Pervasive Computing'21]",
         "journal_fullname": "IEEE Pervasive Computing, Special Issue on Pervasive Video and Audio",
+        "show_selected": true,
         "title": "A Case for Camera-as-a-Service",
         "authors": ["Mengwei Xu", "Yunxin Liu", "Xuanzhe Liu"],
+        "files": null,
+        "msg": "-- Our ambitious vision about future video systems",
         "year": 2021,
         "addtion": ""
     },
     {
         "journal": "[IoTJ'21]",
         "journal_fullname": "IEEE Internet of Things Journal",
+        "show_selected": false,
         "title": "Joint placement of UPF and edge server for 6G network",
         "authors": ["Yuanzhe Li", "Xiao Ma", "Mengwei Xu", "Ao Zhou", "Qibo Sun", "Ning Zhang", "Shangguang Wang"],
         "year": 2021,
@@ -50,22 +76,35 @@ journals([
     {
         "journal": "[JoS'20]",
         "journal_fullname": "Journal of Software",
+        "show_selected": true,
         "title": "Autonomous Learning System towards Mobile Intelligence (in Chinese)",
         "authors": ["Mengwei Xu", "Yuanqiang Liu", "Kang Huang", "Xuanzhe Liu", "Gang Huang"],
+        "files": [{
+            "name": "pdf",
+            "path": "http://www.jos.org.cn/1000-9825/6064.htm"
+        }],
+        "msg": null,
         "year": 2020,
         "addtion": ""
     },
     {
         "journal": "[TMC'19]",
         "journal_fullname": "IEEE Transactions on Mobile Computing",
+        "show_selected": true,
         "title": "DeepWear: Adaptive Local Offloading for On-Wearable Deep Learning",
         "authors": ["Mengwei Xu", "Feng Qian", "Mengze Zhu", "Feifan Huang", "Saumay Pushp", "Xuanzhe Liu"],
+        "files": [{
+            "name": "pdf",
+            "path": "files/TMC-DeepWear.pdf"
+        }],
+        "msg": "-- Your wearables deserve deep learning as well!",
         "year": 2023,
         "addtion": ""
     },
     {
         "journal": "[TMC'17]",
         "journal_fullname": "IEEE Transactions on Mobile Computing",
+        "show_selected": false,
         "title": "DeepWear: Adaptive Local Offloading for On-Wearable Deep Learning",
         "authors": ["Gang Huang", "Mengwei Xu", "Felix Xiaozhu Lin", "Yun Ma", "Yunxin Liu", "Saumay Pushp", "Xuanzhe Liu"],
         "year": 2017,
@@ -74,8 +113,23 @@ journals([
     {
         "journal": "[TSC'17]",
         "journal_fullname": "IEEE Transactions on Services Computing",
+        "show_selected": false,
         "title": "MUIT: a domain-specific language and its middleware for adaptive mobile web-based user interfaces in WS-BPEL",
         "authors": ["Xuanzhe Liu", "Mengwei Xu", "Teng Teng", "Gang Huang", "Hong Mei"],
+        "year": 2017,
+        "addtion": ""
+    },
+    {
+        "journal": "[TMC'17]",
+        "journal_fullname": "IEEE Transactions on Mobile Computing",
+        "show_selected": true,
+        "title": "ShuffleDog: Characterizing and Adapting User-Perceived Latency of Android App",
+        "authors": ["Gang Huang", "Mengwei Xu", "Felix Xiaozhu Lin", "Yun Ma", "Yunxin Liu", "Saumay Pushp", "Xuanzhe Liu"],
+        "files": [{
+            "name": "pdf",
+            "path": "files/TMC-ShuffleDog.pdf"
+        }],
+        "msg": "-- Multi-task GPU scheduling on smartphones.",
         "year": 2017,
         "addtion": ""
     }
