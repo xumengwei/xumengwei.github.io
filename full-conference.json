@@ -132,6 +132,42 @@ conferences([
         }
     },
     {
+        "conference": "[INFOCOM'24]",
+        "confernce_fullname": "IEEE International Conference on Computer Communications",
+        "show_selected": true,
+        "title": "Resource-efficient In-orbit Detection of Earth Objects",
+        "authors": ["Qiyang Zhang", "Xin Yuan", "Ruolin Xing", "Yiran Zhang", "Zimu Zheng", "Xiao Ma", "Mengwei Xu"],
+        "year": 2024,
+        "addtion": {
+            "files": [{
+                "name": "paper",
+                "path": "#"
+            }],
+            "important_msg": null,
+            // "msg": "-- No labels, no problem!"
+        }
+    },
+    {
+        "conference": "[ICSOC'23]",
+        "confernce_fullname": "International Conference on Service-Oriented Computing",
+        "show_selected": true,
+        "title": "Niagara: Scheduling DNN Inference Services on Heterogeneous Edge Processors",
+        "authors": ["Daliang Xu", "Qing Li", "Mengwei Xu", "Kang Huang", "Gang Huang", "Shangguang Wang", "Xin Jin", "Yun Ma", "Xuanzhe Liu"],
+        "year": 2023,
+        "addtion": {
+            "files": [{
+                "name": "paper",
+                "path": "files/ICSOC23-Niagara.pdf"
+            },
+            {
+                "name": "slides",
+                "path": "files/ICSOC23-Niagara-slides.pdf"
+            }],
+            "important_msg": "Distinguished Paper Award (5 out of 210 submissions)",
+            // "msg": "-- No labels, no problem!"
+        }
+    },
+    {
         "conference": "[EuroMLSys'23]",
         "confernce_fullname": "The 3rd Workshop on Machine Learning and Systems",
         "show_selected": false,
