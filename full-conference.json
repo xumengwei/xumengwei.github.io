@@ -75,7 +75,7 @@ conferences([
                 "name": "paper",
                 "path": "#"
             }],
-            "msg": "Looking into computing in space",
+            "msg": "-- Looking into computing in space",
         }
     },
     {
@@ -90,7 +90,7 @@ conferences([
                 "name": "arXiv",
                 "path": "https://arxiv.org/pdf/2308.14363.pdf"
             }],
-            "msg": "One-size-fits-all model for mobile AI",
+            "msg": "-- One-size-fits-all model for mobile AI; no more fragmentation",
         }
     },
     {
