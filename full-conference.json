@@ -134,7 +134,7 @@ conferences([
     {
         "conference": "[INFOCOM'24]",
         "confernce_fullname": "IEEE International Conference on Computer Communications",
-        "show_selected": true,
+        "show_selected": false,
         "title": "Resource-efficient In-orbit Detection of Earth Objects",
         "authors": ["Qiyang Zhang", "Xin Yuan", "Ruolin Xing", "Yiran Zhang", "Zimu Zheng", "Xiao Ma", "Mengwei Xu"],
         "year": 2024,
@@ -197,7 +197,7 @@ conferences([
     {
         "conference": "[IWQoS'23]",
         "confernce_fullname": "IEEE/ACM International Symposium on Quality of Service",
-        "show_selected": true,
+        "show_selected": false,
         "title": "A Holistic QoS View of Crowdsourced Edge Cloud Platform",
         "authors": ["Shihao Shen", "Yicheng Feng", "Mengwei Xu", "Cheng Zhang", "Xiaofei Wang", "Wenyu Wang", "Victor C.M. Leung"],
         "year": 2023,
@@ -219,7 +219,7 @@ conferences([
     {
         "conference": "[IWQoS'23]",
         "confernce_fullname": "IEEE/ACM International Symposium on Quality of Service",
-        "show_selected": true,
+        "show_selected": false,
         "title": "How Far Have Edge Clouds Gone? A Spatial-Temporal Analysis of Edge Network Latency In the Wild",
         "authors": ["Heng Zhang", "Shaoyuan Huang", "Mengwei Xu", "Deke Guo", "Xiaofei Wang", "Victor C.M. Leung", "Wenyu Wang"],
         "year": 2023,
@@ -288,7 +288,7 @@ conferences([
     {
         "conference": "[INFOCOM'23]",
         "confernce_fullname": "IEEE International Conference on Computer Communications",
-        "show_selected": true,
+        "show_selected": false,
         "title": "Privacy as a Resource in Differentially Private Federated Learning",
         "authors": ["Jinliang Yuan", "Shangguang Wang", "Shihe Wang", "Yuanchun Li", "Xiao Ma", "Ao Zhou", "Mengwei Xu"],
         "year": 2023,
@@ -594,7 +594,7 @@ conferences([
     {
         "conference": "[EMDL'21]",
         "confernce_fullname": "The International Workshop on Embedded and Mobile Deep Learning (EMDL), co-located with MobiSys",
-        "show_selected": true,
+        "show_selected": false,
         "title": "Towards Ubiquitous Learning: A First Measurement of On-Device Training Performance",
         "authors": ["Dongqi Cai", "Qipeng Wang", "Yuanqiang Liu", "Yunxin Liu", "Shangguang Wang", "Mengwei Xu"],
         "year": 2021,

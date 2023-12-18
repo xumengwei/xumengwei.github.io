@@ -11,7 +11,7 @@ journals([
     {
         "journal": "[TMC'23]",
         "journal_fullname": "IEEE Transactions on Mobile Computing",
-        "show_selected": true,
+        "show_selected": false,
         "title": "Seamless Cross-Edge Service Migration for Real-Time Rendering Applications",
         "authors": ["Yuanzhe Li", "Shangguang Wang", "Yuanchun Li", "Ao Zhou", "Mengwei Xu", "Xiao Ma", "Yunxin Liu"],
         "files": null,
