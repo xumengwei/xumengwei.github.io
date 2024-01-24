@@ -114,6 +114,24 @@ conferences([
         }
     },
     {
+        "conference": "[WWW'24]",
+        "confernce_fullname": "The Web Conference",
+        "show_selected": true,
+        "title": "Towards Energy-efficient Federated Learning via INT8-based Training on Mobile DSPs",
+        "authors": ["Jinliang Yuan", "Shangguang Wang", "Hongyu Li", "Daliang Xu", "yuanchun Li",  "Mengwei Xu", "Xuanzhe Liu"],
+        "year": 2024,
+        "addtion": {
+            "rate": "Acceptance rate = 20.2% (2008 submissions in total)",
+            "files": [{
+                    "name": "paper",
+                    "path": "#"
+                }
+            ],
+            "important_msg": null,
+            // "msg": "-- Training on edge SoCs, why not!"
+        }
+    },
+    {
         "conference": "[ASPLOS'24]",
         "confernce_fullname": "International Conference on Architectural Support for Programming Languages and Operating Systems",
         "show_selected": true,
@@ -121,7 +139,7 @@ conferences([
         "authors": ["Daliang Xu*", "Mengwei Xu*", "Chiheng Lou", "Li Zhang", "Gang Huang", "Xin Jin", "Xuanzhe Liu"],
         "year": 2024,
         "addtion": {
-            "rate": "Acceptance rate = 16.2% (28/173, spring cycle).",
+            "rate": "Acceptance rate = 16.2% (28/173, spring cycle)",
             "files": [{
                     "name": "paper",
                     "path": "files/ASPLOS24-SoCFlow.pdf"

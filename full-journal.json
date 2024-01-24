@@ -1,5 +1,19 @@
 journals([
     {
+        "journal": "[TMC'24]",
+        "journal_fullname": "IEEE Transactions on Mobile Computing",
+        "show_selected": true,
+        "title": "Communication-Efficient Satellite-Ground Federated Learning through Progressive Weight Quantization",
+        "authors": ["Chen Yang*", "Jinliang Yuan*", "Yaozong Wu", "Qibo Sun", "Ao Zhou", "Shangguang Wang", "Mengwei Xu"],
+        "files": [{
+            "name": "pdf",
+            "path": "files/TMC24-SatelliteFL.pdf"
+        }],
+        "msg": null,
+        "year": 2024,
+        "addtion": ""
+    },
+    {
         "journal": "[W3J'23]",
         "journal_fullname": "Internet and Web Information Systems",
         "show_selected": false,
