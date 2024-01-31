@@ -116,15 +116,6 @@ journals([
         "addtion": ""
     },
     {
-        "journal": "[TMC'17]",
-        "journal_fullname": "IEEE Transactions on Mobile Computing",
-        "show_selected": false,
-        "title": "DeepWear: Adaptive Local Offloading for On-Wearable Deep Learning",
-        "authors": ["Gang Huang", "Mengwei Xu", "Felix Xiaozhu Lin", "Yun Ma", "Yunxin Liu", "Saumay Pushp", "Xuanzhe Liu"],
-        "year": 2017,
-        "addtion": ""
-    },
-    {
         "journal": "[TSC'17]",
         "journal_fullname": "IEEE Transactions on Services Computing",
         "show_selected": false,
