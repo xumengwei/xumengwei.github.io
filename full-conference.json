@@ -387,7 +387,7 @@ conferences([
         "conference": "[MobiCom'23]",
         "confernce_fullname": "International Conference on Mobile Computing and Networking",
         "show_selected": true,
-        "title": "Resource-Efficient Federated Learning for Modern NLP",
+        "title": "Efficient Federated Learning for Modern NLP",
         "authors": ["Dongqi Cai", "Yaozong Wu", "Shangguang Wang", "Felix Xiaozhu Lin", "Mengwei Xu"],
         "year": 2023,
         "addtion": {
