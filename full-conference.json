@@ -354,7 +354,7 @@ conferences([
         "confernce_fullname": "International Conference on Mobile Computing and Networking",
         "title": "Federated Few-shot Learning for Mobile NLP",
         "show_selected": true,
-        "authors": ["Dongqi Cai", "Yaozong Wu", "Shangguang Wang", "Felix Xiaozhu Lin", "Mengwei Xu"],
+        "authors": ["Dongqi Cai", "Shangguang Wang", "Yaozong Wu", "Felix Xiaozhu Lin", "Mengwei Xu"],
         "year": 2023,
         "addtion": {
             "rate": "",
