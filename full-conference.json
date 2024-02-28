@@ -85,30 +85,38 @@ conferences([
     },
     {
         "conference": "[MobiCom'24]",
-        "confernce_fullname": "International Conference on Mobile Computing and Networking 2023 (conditional accept)",
+        "confernce_fullname": "International Conference on Mobile Computing and Networking",
         "show_selected": true,
         "title": "Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis",
         "authors": ["Ruolin Xing", "Mengwei Xu", "Ao Zhou", "Qing Li", "Yiran Zhang", "Feng Qian", "Shangguang Wang"],
+        "year": 2024,
         "addtion": {
             "rate": "Acceptance rate = 23.2% (48/207, summer round)",
             "files": [{
                 "name": "paper",
-                "path": "#"
+                "path": "files/MobiCom24-Satellite.pdf"
+            },{
+                "name": "data",
+                "path": "https://github.com/TiansuanConstellation/MobiCom24-SatelliteCOTS"
             }],
-            "msg": "-- Looking into computing in space",
+            "msg": "-- In-space computing: where are we now?",
         }
     },
     {
         "conference": "[MobiCom'24]",
-        "confernce_fullname": "International Conference on Mobile Computing and Networking 2023 (conditional accept)",
+        "confernce_fullname": "International Conference on Mobile Computing and Networking",
         "show_selected": true,
-        "title": "Rethinking Mobile AI Ecosystem in the LLM Era",
+        "title": "Mobile Foundation Model as Firmware",
         "authors": ["Jinliang Yuan*", "Chen Yang*", "Dongqi Cai*", "Shihe Wang", "Xin Yuan", "Zeling Zhang", "Xiang Li", "Dingge Zhang", "Hanzi Mei", "Xianqing Jia", "Shangguang Wang", "Mengwei Xu"],
+        "year": 2024,
         "addtion": {
             "rate": "Acceptance rate = 23.2% (48/207, summer round)",
             "files": [{
-                "name": "arXiv",
-                "path": "https://arxiv.org/pdf/2308.14363.pdf"
+                "name": "paper",
+                "path": "files/MobiCom24-MobileFM.pdf"
+            },{
+                "name": "code",
+                "path": "https://github.com/UbiquitousLearning/MobileFM"
             }],
             "msg": "-- One-size-fits-all model for mobile AI; no more fragmentation",
         }
@@ -124,11 +132,11 @@ conferences([
             "rate": "Acceptance rate = 20.2% (2008 submissions in total)",
             "files": [{
                     "name": "paper",
-                    "path": "#"
+                    "path": "files/WWW24-IntFL.pdf"
                 }
             ],
             "important_msg": null,
-            // "msg": "-- Training on edge SoCs, why not!"
+            "msg": "-- Low-precision Federated Learning on mobile DSP/NPU"
         }
     },
     {
