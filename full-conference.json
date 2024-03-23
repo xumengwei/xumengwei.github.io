@@ -19,17 +19,33 @@ conferences([
             // "msg": "-- More is different!"
         }
     },
+    // {
+    //     "conference": "[arXiv]",
+    //     "confernce_fullname": null,
+    //     "show_selected": true,
+    //     "title": "SoC-Cluster as an Edge Server: an Application-driven Measurement Study",
+    //     "authors": ["Li Zhang", "Zhe Fu", "Boqing Shi", "Xiang Li", "Rujin Lai", "Chenyang Chen", "Ao Zhou", "Xiao Ma", "Shangguang Wang", "Mengwei Xu"],
+    //     "addtion": {
+    //         "rate": null,
+    //         "files": [{
+    //             "name": "arXiv",
+    //             "path": "https://arxiv.org/abs/2212.12842.pdf"
+    //         }],
+    //         "important_msg": null,
+    //         // "msg": "-- More is different!"
+    //     }
+    // },
     {
         "conference": "[arXiv]",
         "confernce_fullname": null,
         "show_selected": true,
-        "title": "SoC-Cluster as an Edge Server: an Application-driven Measurement Study",
-        "authors": ["Li Zhang", "Zhe Fu", "Boqing Shi", "Xiang Li", "Rujin Lai", "Chenyang Chen", "Ao Zhou", "Xiao Ma", "Shangguang Wang", "Mengwei Xu"],
+        "title": "LLM as a System Service on Mobile Devices",
+        "authors": ["Wangsong Yin", "Mengwei Xu", "Yuanchun Li", "Xuanzhe Liu"],
         "addtion": {
             "rate": null,
             "files": [{
                 "name": "arXiv",
-                "path": "https://arxiv.org/abs/2212.12842.pdf"
+                "path": "https://arxiv.org/pdf/2403.11805"
             }],
             "important_msg": null,
             // "msg": "-- More is different!"
@@ -78,6 +94,22 @@ conferences([
             "files": [{
                 "name": "arXiv",
                 "path": "https://arxiv.org/pdf/2308.14352.pdf"
+            }],
+            "important_msg": null,
+            // "msg": "-- More is different!"
+        }
+    },
+    {
+        "conference": "[arXiv]",
+        "confernce_fullname": null,
+        "show_selected": true,
+        "title": "A First Look at GPT Apps: Landscape and Vulnerability",
+        "authors": ["Zejun Zhang", "Li Zhang", "Xin Yuan", "Anlan Zhang", "Mengwei Xu", "Feng Qian"],
+        "addtion": {
+            "rate": null,
+            "files": [{
+                "name": "arXiv",
+                "path": "https://arxiv.org/pdf/2402.15105"
             }],
             "important_msg": null,
             // "msg": "-- More is different!"
@@ -182,7 +214,7 @@ conferences([
         "confernce_fullname": "IEEE International Conference on Computer Communications",
         "show_selected": false,
         "title": "Resource-efficient In-orbit Detection of Earth Objects",
-        "authors": ["Qiyang Zhang", "Xin Yuan", "Ruolin Xing", "Yiran Zhang", "Zimu Zheng", "Xiao Ma", "Mengwei Xu"],
+        "authors": ["Qiyang Zhang", "Xin Yuan", "Ruolin Xing", "Yiran Zhang", "Zimu Zheng", "Xiao Ma", "Mengwei Xu", "Schahram Dustdar", "Shangguang Wang"],
         "year": 2024,
         "addtion": {
             "files": [{
