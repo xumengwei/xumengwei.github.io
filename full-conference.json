@@ -19,22 +19,6 @@ conferences([
             // "msg": "-- More is different!"
         }
     },
-    // {
-    //     "conference": "[arXiv]",
-    //     "confernce_fullname": null,
-    //     "show_selected": true,
-    //     "title": "SoC-Cluster as an Edge Server: an Application-driven Measurement Study",
-    //     "authors": ["Li Zhang", "Zhe Fu", "Boqing Shi", "Xiang Li", "Rujin Lai", "Chenyang Chen", "Ao Zhou", "Xiao Ma", "Shangguang Wang", "Mengwei Xu"],
-    //     "addtion": {
-    //         "rate": null,
-    //         "files": [{
-    //             "name": "arXiv",
-    //             "path": "https://arxiv.org/abs/2212.12842.pdf"
-    //         }],
-    //         "important_msg": null,
-    //         // "msg": "-- More is different!"
-    //     }
-    // },
     {
         "conference": "[arXiv]",
         "confernce_fullname": null,
@@ -71,22 +55,6 @@ conferences([
         "conference": "[arXiv]",
         "confernce_fullname": null,
         "show_selected": true,
-        "title": "Federated Fine-tuning of Billion-Sized Language Models across Mobile Devices",
-        "authors": ["Mengwei Xu", "Yaozong Wu", "Dongqi Cai", "Xiang Li", "Shangguang Wang"],
-        "addtion": {
-            "rate": null,
-            "files": [{
-                "name": "arXiv",
-                "path": "https://arxiv.org/pdf/2308.13894.pdf"
-            }],
-            "important_msg": null,
-            // "msg": "-- More is different!"
-        }
-    },
-    {
-        "conference": "[arXiv]",
-        "confernce_fullname": null,
-        "show_selected": true,
         "title": "EdgeMoE: Fast On-Device Inference of MoE-based Large Language Models",
         "authors": ["Rongjie Yi", "Liwei Guo", "Shiyun Wei", "Ao Zhou", "Shangguang Wang", "Mengwei Xu"],
         "addtion": {
@@ -111,6 +79,70 @@ conferences([
                 "name": "arXiv",
                 "path": "https://arxiv.org/pdf/2402.15105"
             }],
+            "important_msg": null,
+            // "msg": "-- More is different!"
+        }
+    },
+    {
+        "conference": "[USENIX ATC'24]",
+        "confernce_fullname": "USENIX ATC",
+        "show_selected": true,
+        "title": "Federated Fine-tuning of Billion-Sized Language Models across Mobile Devices",
+        "authors": ["Mengwei Xu", "Yaozong Wu", "Dongqi Cai", "Xiang Li", "Shangguang Wang"],
+        "addtion": {
+            "rate": "Acceptance rate = 15.8% (77/488)",
+            "files": [{
+                "name": "arXiv",
+                "path": "https://arxiv.org/pdf/2308.13894.pdf"
+            }],
+            "important_msg": null,
+            "msg": "--Fine-tuning LLMs without BP"
+        }
+    },
+    {
+        "conference": "[USENIX ATC'24]",
+        "confernce_fullname": "USENIX ATC",
+        "show_selected": true,
+        "title": "An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise",
+        "authors": ["Hongyu Li*", "Liwei Guo*", "Yexuan Yang", "Shangguang Wang", "Mengwei Xu"],
+        "addtion": {
+            "rate": "Acceptance rate = 15.8% (77/488)",
+            // "files": [{
+            //     "name": "arXiv",
+            //     "path": "https://arxiv.org/pdf/2308.13894.pdf"
+            // }],
+            "important_msg": null,
+            "msg": "--How well is Rust doing in Linux?"
+        }
+    },
+    {
+        "conference": "[USENIX ATC'24]",
+        "confernce_fullname": "USENIX ATC",
+        "show_selected": true,
+        "title": "SoC-Cluster as an Edge Server: an Application-driven Measurement Study",
+        "authors": ["Li Zhang", "Zhe Fu", "Boqing Shi", "Xiang Li", "Rujin Lai", "Chenyang Chen", "Ao Zhou", "Xiao Ma", "Shangguang Wang", "Mengwei Xu"],
+        "addtion": {
+            "rate": "Acceptance rate = 15.8% (77/488)",
+            "files": [{
+                "name": "arXiv",
+                "path": "https://arxiv.org/abs/2212.12842.pdf"
+            }],
+            "important_msg": null,
+            "msg": "-- More is different!"
+        }
+    },
+    {
+        "conference": "[USENIX ATC'24]",
+        "confernce_fullname": "USENIX ATC",
+        "show_selected": true,
+        "title": "High-density Mobile Cloud Gaming on Edge SoC Farms",
+        "authors": ["Li Zhang", "Shangguang Wang", "Mengwei Xu"],
+        "addtion": {
+            "rate": "Acceptance rate = 15.8% (77/488)",
+            // "files": [{
+                // "name": "arXiv",
+                // "path": "#"
+            // }],
             "important_msg": null,
             // "msg": "-- More is different!"
         }
