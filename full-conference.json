@@ -87,11 +87,16 @@ conferences([
         "conference": "[USENIX ATC'24]",
         "confernce_fullname": "USENIX ATC",
         "show_selected": true,
-        "title": "Federated Fine-tuning of Billion-Sized Language Models across Mobile Devices",
-        "authors": ["Mengwei Xu", "Yaozong Wu", "Dongqi Cai", "Xiang Li", "Shangguang Wang"],
+        "title": "FwdLLM: Efficient Federated Finetuning of Large Language Models with Perturbed Inferences",
+        "authors": ["Mengwei Xu", "Dongqi Cai", "Yaozong Wu", "Xiang Li", "Shangguang Wang"],
         "addtion": {
             "rate": "Acceptance rate = 15.8% (77/488)",
-            "files": [{
+            "files": [
+            {
+                "name": "paper",
+                "path": "files/ATC24-FwdLLM.pdf"
+            },
+            {
                 "name": "arXiv",
                 "path": "https://arxiv.org/pdf/2308.13894.pdf"
             }],
@@ -107,10 +112,10 @@ conferences([
         "authors": ["Hongyu Li*", "Liwei Guo*", "Yexuan Yang", "Shangguang Wang", "Mengwei Xu"],
         "addtion": {
             "rate": "Acceptance rate = 15.8% (77/488)",
-            // "files": [{
-            //     "name": "arXiv",
-            //     "path": "https://arxiv.org/pdf/2308.13894.pdf"
-            // }],
+            "files": [{
+                "name": "paper",
+                "path": "files/ATC24-RFL.pdf"
+            }],
             "important_msg": null,
             "msg": "--How well is Rust doing in Linux?"
         }
@@ -119,11 +124,16 @@ conferences([
         "conference": "[USENIX ATC'24]",
         "confernce_fullname": "USENIX ATC",
         "show_selected": true,
-        "title": "SoC-Cluster as an Edge Server: an Application-driven Measurement Study",
+        "title": "More is Different: Prototyping and Analyzing a New Form of Edge Server with Massive Mobile SoCs",
         "authors": ["Li Zhang", "Zhe Fu", "Boqing Shi", "Xiang Li", "Rujin Lai", "Chenyang Chen", "Ao Zhou", "Xiao Ma", "Shangguang Wang", "Mengwei Xu"],
         "addtion": {
             "rate": "Acceptance rate = 15.8% (77/488)",
-            "files": [{
+            "files": [
+            {
+                "name": "paper",
+                "path": "files/ATC24-SoCCluster.pdf"
+            },
+            {
                 "name": "arXiv",
                 "path": "https://arxiv.org/abs/2212.12842.pdf"
             }],
