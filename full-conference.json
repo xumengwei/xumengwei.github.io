@@ -23,6 +23,46 @@ conferences([
         "conference": "[arXiv]",
         "confernce_fullname": null,
         "show_selected": true,
+        "title": "Empowering 1000 tokens/second on-device LLM prefilling with mllm-NPU",
+        "authors": ["Daliang Xu", "Hao Zhang", "Liming Yang", "Ruiqi Liu", "Gang Huang", "Mengwei Xu", "Xuanzhe Liu"],
+        "addtion": {
+            "rate": null,
+            "files": [{
+                "name": "arXiv",
+                "path": "https://arxiv.org/pdf/2407.05858"
+            },
+            {
+                "name": "code",
+                "path": "https://github.com/UbiquitousLearning/mllm"
+            }],
+            "important_msg": null,
+            // "msg": "-- More is different!"
+        }
+    },
+    {
+        "conference": "[arXiv]",
+        "confernce_fullname": null,
+        "show_selected": true,
+        "title": "LlamaTouch: A Faithful and Scalable Testbed for Mobile UI Automation Task Evaluation",
+        "authors": ["Li Zhang", "Shihe Wang", "Xianqing Jia", "Zhihan Zheng", "Yunhe Yan", "Longxi Gao", "Yuanchun Li", "Mengwei Xu"],
+        "addtion": {
+            "rate": null,
+            "files": [{
+                "name": "arXiv",
+                "path": "https://arxiv.org/pdf/2404.16054"
+            },
+            {
+                "name": "code",
+                "path": "https://github.com/LlamaTouch/LlamaTouch"
+            }],
+            "important_msg": null,
+            // "msg": "-- More is different!"
+        }
+    },
+    {
+        "conference": "[arXiv]",
+        "confernce_fullname": null,
+        "show_selected": true,
         "title": "LLM as a System Service on Mobile Devices",
         "authors": ["Wangsong Yin", "Mengwei Xu", "Yuanchun Li", "Xuanzhe Liu"],
         "addtion": {
@@ -70,7 +110,7 @@ conferences([
     {
         "conference": "[arXiv]",
         "confernce_fullname": null,
-        "show_selected": true,
+        "show_selected": false,
         "title": "A First Look at GPT Apps: Landscape and Vulnerability",
         "authors": ["Zejun Zhang", "Li Zhang", "Xin Yuan", "Anlan Zhang", "Mengwei Xu", "Feng Qian"],
         "addtion": {
@@ -99,6 +139,14 @@ conferences([
             {
                 "name": "arXiv",
                 "path": "https://arxiv.org/pdf/2308.13894.pdf"
+            },
+            {
+                "name": "slides",
+                "path": "files/ATC24-FwdLLM-slides.pdf"
+            },
+            {
+                "name": "code",
+                "path": "https://github.com/UbiquitousLearning/FwdLLM"
             }],
             "important_msg": null,
             "msg": "--Fine-tuning LLMs without BP"
@@ -112,11 +160,24 @@ conferences([
         "authors": ["Hongyu Li*", "Liwei Guo*", "Yexuan Yang", "Shangguang Wang", "Mengwei Xu"],
         "addtion": {
             "rate": "Acceptance rate = 15.8% (77/488)",
-            "files": [{
+            "files": [
+            {
                 "name": "paper",
                 "path": "files/ATC24-RFL.pdf"
+            },
+            {
+                "name": "slides",
+                "path": "files/ATC24-RFL-slides.pdf"
+            },
+            {
+                "name": "code",
+                "path": "https://github.com/Richardhongyu/rfl_empirical_tools"
+            },
+            {
+                "name": "USENIX login article",
+                "path": "https://www.usenix.org/publications/loginonline/empirical-study-rust-linux-success-dissatisfaction-and-compromise"
             }],
-            "important_msg": null,
+            "important_msg": "Best Paper Award",
             "msg": "--How well is Rust doing in Linux?"
         }
     },
@@ -136,6 +197,14 @@ conferences([
             {
                 "name": "arXiv",
                 "path": "https://arxiv.org/abs/2212.12842.pdf"
+            },
+            {
+                "name": "slides",
+                "path": "files/ATC24-SoCCluster-slides.pdf"
+            },
+            {
+                "name": "code",
+                "path": "https://github.com/SoC-Cluster/SoC-Cluster-artifacts"
             }],
             "important_msg": null,
             "msg": "-- More is different!"
@@ -149,10 +218,18 @@ conferences([
         "authors": ["Li Zhang", "Shangguang Wang", "Mengwei Xu"],
         "addtion": {
             "rate": "Acceptance rate = 15.8% (77/488)",
-            // "files": [{
-                // "name": "arXiv",
-                // "path": "#"
-            // }],
+            "files": [{
+                "name": "paper",
+                "path": "files/ATC24-CloudGaming.pdf"
+            },
+            {
+                "name": "slides",
+                "path": "files/ATC24-CloudGaming-slides.pdf"
+            },
+            {
+                "name": "code",
+                "path": "https://github.com/lizhang20/SFG"
+            }],
             "important_msg": null,
             // "msg": "-- More is different!"
         }
@@ -185,14 +262,16 @@ conferences([
         "year": 2024,
         "addtion": {
             "rate": "Acceptance rate = 23.2% (48/207, summer round)",
-            "files": [{
+            "files": [
+            {
                 "name": "paper",
                 "path": "files/MobiCom24-MobileFM.pdf"
-            },{
+            },
+            {
                 "name": "code",
                 "path": "https://github.com/UbiquitousLearning/MobileFM"
             }],
-            "msg": "-- One-size-fits-all model for mobile AI; no more fragmentation",
+            "msg": "-- A totally new landscape of on-device AI",
         }
     },
     {
@@ -207,7 +286,11 @@ conferences([
             "files": [{
                     "name": "paper",
                     "path": "files/WWW24-IntFL.pdf"
-                }
+                },
+                {
+                "name": "slides",
+                "path": "files/WWW24-IntFL-slides.pdf"
+            }
             ],
             "important_msg": null,
             "msg": "-- Low-precision Federated Learning on mobile DSP/NPU"
@@ -222,11 +305,15 @@ conferences([
         "year": 2024,
         "addtion": {
             "rate": "Acceptance rate = 16.2% (28/173, spring cycle)",
-            "files": [{
-                    "name": "paper",
-                    "path": "files/ASPLOS24-SoCFlow.pdf"
-                }
-            ],
+            "files": [
+            {
+                "name": "paper",
+                "path": "files/ASPLOS24-SoCFlow.pdf"
+            },
+            {
+                "name": "slides",
+                "path": "files/ASPLOS24-SoCFlow-slides.pdf"
+            }],
             "important_msg": null,
             "msg": "-- Training on edge SoCs, why not!"
         }
@@ -242,6 +329,10 @@ conferences([
             "files": [{
                 "name": "paper",
                 "path": "files/SIGMOD24-EdgeQoE.pdf"
+            },
+            {
+                "name": "slides",
+                "path": "files/SIGMOD24-EdgeQoE-slides.pdf"
             },
             {
                 "name": "dataset",
@@ -283,7 +374,7 @@ conferences([
                 "name": "slides",
                 "path": "files/ICSOC23-Niagara-slides.pdf"
             }],
-            "important_msg": "Distinguished Paper Award (5 out of 210 submissions)",
+            "important_msg": "Distinguished Paper Award",
             // "msg": "-- No labels, no problem!"
         }
     },
