@@ -43,26 +43,6 @@ conferences([
         "conference": "[arXiv]",
         "confernce_fullname": null,
         "show_selected": true,
-        "title": "LlamaTouch: A Faithful and Scalable Testbed for Mobile UI Automation Task Evaluation",
-        "authors": ["Li Zhang", "Shihe Wang", "Xianqing Jia", "Zhihan Zheng", "Yunhe Yan", "Longxi Gao", "Yuanchun Li", "Mengwei Xu"],
-        "addtion": {
-            "rate": null,
-            "files": [{
-                "name": "arXiv",
-                "path": "https://arxiv.org/pdf/2404.16054"
-            },
-            {
-                "name": "code",
-                "path": "https://github.com/LlamaTouch/LlamaTouch"
-            }],
-            "important_msg": null,
-            // "msg": "-- More is different!"
-        }
-    },
-    {
-        "conference": "[arXiv]",
-        "confernce_fullname": null,
-        "show_selected": true,
         "title": "LLM as a System Service on Mobile Devices",
         "authors": ["Wangsong Yin", "Mengwei Xu", "Yuanchun Li", "Xuanzhe Liu"],
         "addtion": {
@@ -118,6 +98,35 @@ conferences([
             "files": [{
                 "name": "arXiv",
                 "path": "https://arxiv.org/pdf/2402.15105"
+            }],
+            "important_msg": null,
+            // "msg": "-- More is different!"
+        }
+    },
+    {
+        "conference": "[UIST'24]",
+        "confernce_fullname": null,
+        "show_selected": true,
+        "title": "LlamaTouch: A Faithful and Scalable Testbed for Mobile UI Automation Task Evaluation",
+        "authors": ["Li Zhang", "Shihe Wang", "Xianqing Jia", "Zhihan Zheng", "Yunhe Yan", "Longxi Gao", "Yuanchun Li", "Mengwei Xu"],
+        "addtion": {
+            "rate": "Acceptance rate = 24.0% (146/608)",
+            "files": [
+            {
+                "name": "paper",
+                "path": "files/UIST24-LlamaTouch.pdf"
+            },
+            {
+                "name": "arXiv",
+                "path": "https://arxiv.org/pdf/2404.16054"
+            },
+            {
+                "name": "code",
+                "path": "https://github.com/LlamaTouch/LlamaTouch"
+            },
+            {
+                "name": "teaser video (half-minute)",
+                "path": "materials/UIST24-LlamaTouch-teaser-30sec.mp4"
             }],
             "important_msg": null,
             // "msg": "-- More is different!"
