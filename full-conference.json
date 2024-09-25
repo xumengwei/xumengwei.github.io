@@ -3,6 +3,30 @@ conferences([
         "conference": "[arXiv]",
         "confernce_fullname": null,
         "show_selected": true,
+        "title": "Small Language Models: Survey, Measurements, and Insights",
+        "authors": ["Zhenyan Lu", "Xiang Li", "Dongqi Cai", "Rongjie Yi", "Fangming Liu", "Xiwen Zhang", "Nicholas D.Lane", "Mengwei Xu"],
+        "addtion": {
+            "rate": null,
+            "files": [{
+                "name": "arXiv",
+                "path": "https://arxiv.org/pdf/2409.15790"
+            },
+            {
+                "name": "code",
+                "path": "https://github.com/UbiquitousLearning/SLM_Survey"
+            },
+            {
+                "name": "website (leaderboard)",
+                "path": "https://ubiquitouslearning.github.io/TinyLLMLeaderBoard/"
+            }],
+            "important_msg": null,
+            // "msg": "-- More is different!"
+        }
+    },
+    {
+        "conference": "[arXiv]",
+        "confernce_fullname": null,
+        "show_selected": true,
         "title": "A Survey of Resource-efficient LLM and Multimodal Foundation Models",
         "authors": ["Mengwei Xu", "Wangsong Yin, Dongqi Cai, Rongjie Yi, Daliang Xu, Qipeng Wang, Bingyang Wu, Yihao Zhao, Chen Yang, Shihe Wang, Qiyang Zhang, Zhenyan Lu, Li Zhang, Shangguang Wang, Yuanchun Li, Yunxin Liu, Xin Jin, Xuanzhe Liu"],
         "addtion": {
@@ -43,6 +67,22 @@ conferences([
         "conference": "[arXiv]",
         "confernce_fullname": null,
         "show_selected": true,
+        "title": "MobileViews: A Large-Scale Mobile GUI Dataset",
+        "authors": ["Longxi Gao", "Li Zhang", "Shihe Wang", "Shangguang Wang", "Yuanchun Li", "Mengwei Xu"],
+        "addtion": {
+            "rate": null,
+            "files": [{
+                "name": "arXiv",
+                "path": "https://arxiv.org/pdf/2409.14337"
+            }],
+            "important_msg": null,
+            // "msg": "-- More is different!"
+        }
+    },
+    {
+        "conference": "[arXiv]",
+        "confernce_fullname": null,
+        "show_selected": true,
         "title": "LLM as a System Service on Mobile Devices",
         "authors": ["Wangsong Yin", "Mengwei Xu", "Yuanchun Li", "Xuanzhe Liu"],
         "addtion": {
@@ -50,6 +90,22 @@ conferences([
             "files": [{
                 "name": "arXiv",
                 "path": "https://arxiv.org/pdf/2403.11805"
+            }],
+            "important_msg": null,
+            // "msg": "-- More is different!"
+        }
+    },
+    {
+        "conference": "[arXiv]",
+        "confernce_fullname": null,
+        "show_selected": true,
+        "title": "ELMS: Elasticized Large Language Models on Mobile Devices",
+        "authors": ["Wangsong Yin", "Rongjie Yi", "Daliang Xu", "Gang Huang", "Mengwei Xu", "Xuanzhe Liu"],
+        "addtion": {
+            "rate": null,
+            "files": [{
+                "name": "arXiv",
+                "path": "https://www.arxiv.org/pdf/2409.09071"
             }],
             "important_msg": null,
             // "msg": "-- More is different!"
@@ -104,8 +160,25 @@ conferences([
         }
     },
     {
+        "conference": "[SenSys'24]",
+        "confernce_fullname": "ACM Conference on Embedded Networked Sensor Systems",
+        "show_selected": true,
+        "title": "PetCube: Fast and Parameter-Efficient On-Device Training via Proxy Networks",
+        "authors": ["Wangsong Ying", "Daliang Xu", "Gang Huang", "Ying Zhang", "Shiyun Wei", "Mengwei Xu", "Xuanzhe Liu"],
+        "addtion": {
+            "rate": "Acceptance rate = 18.5% (58/313)",
+            "files": [
+            {
+                "name": "paper",
+                "path": "#"
+            }],
+            "important_msg": null,
+            // "msg": "-- More is different!"
+        }
+    },
+    {
         "conference": "[UIST'24]",
-        "confernce_fullname": null,
+        "confernce_fullname": "ACM Symposium on User Interface Software and Technology",
         "show_selected": true,
         "title": "LlamaTouch: A Faithful and Scalable Testbed for Mobile UI Automation Task Evaluation",
         "authors": ["Li Zhang", "Shihe Wang", "Xianqing Jia", "Zhihan Zheng", "Yunhe Yan", "Longxi Gao", "Yuanchun Li", "Mengwei Xu"],
