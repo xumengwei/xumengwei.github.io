@@ -200,14 +200,14 @@ conferences([
         "conference": "[SenSys'24]",
         "confernce_fullname": "ACM Conference on Embedded Networked Sensor Systems",
         "show_selected": true,
-        "title": "PetCube: Fast and Parameter-Efficient On-Device Training via Proxy Networks",
+        "title": "PieBridge: Fast and Parameter-Efficient On-Device Training via Proxy Networks",
         "authors": ["Wangsong Ying", "Daliang Xu", "Gang Huang", "Ying Zhang", "Shiyun Wei", "Mengwei Xu", "Xuanzhe Liu"],
         "addtion": {
             "rate": "Acceptance rate = 18.5% (58/313)",
             "files": [
             {
                 "name": "paper",
-                "path": "#"
+                "path": "files/SenSys24-PieBridge.pdf"
             }],
             "important_msg": null,
             // "msg": "-- More is different!"
@@ -233,6 +233,14 @@ conferences([
             {
                 "name": "code",
                 "path": "https://github.com/LlamaTouch/LlamaTouch"
+            },
+            {
+                "name": "poster",
+                "path": "files/UIST24-LlamaTouch-poster.pdf"
+            },
+            {
+                "name": "slides",
+                "path": "files/UIST24-LlamaTouch-slides.pdf"
             },
             {
                 "name": "teaser video (half-minute)",
