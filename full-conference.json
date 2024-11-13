@@ -3,6 +3,30 @@ conferences([
         "conference": "[arXiv]",
         "confernce_fullname": null,
         "show_selected": true,
+        "title": "PhoneLM: an Efficient and Capable Small Language Model Family through Principled Pre-training",
+        "authors": ["Rongjie Yi", "Xiang Li", "Weikai Xie", "Zhenyan Lu", "Chenghua Wang", "Ao Zhou", "Shangguang Wang", "Xiwen Zhang", "Mengwei Xu"],
+        "addtion": {
+            "rate": null,
+            "files": [{
+                "name": "arXiv",
+                "path": "https://arxiv.org/pdf/2411.05046"
+            },
+            {
+                "name": "code",
+                "path": "https://github.com/UbiquitousLearning/PhoneLM"
+            },
+            {
+                "name": "models",
+                "path": "https://huggingface.co/mllmTeam/PhoneLM-1.5B-Instruct"
+            }],
+            "important_msg": null,
+            // "msg": "-- More is different!"
+        }
+    },
+    {
+        "conference": "[arXiv]",
+        "confernce_fullname": null,
+        "show_selected": true,
         "title": "Small Language Models: Survey, Measurements, and Insights",
         "authors": ["Zhenyan Lu", "Xiang Li", "Dongqi Cai", "Rongjie Yi", "Fangming Liu", "Xiwen Zhang", "Nicholas D.Lane", "Mengwei Xu"],
         "addtion": {
@@ -48,7 +72,7 @@ conferences([
         "confernce_fullname": null,
         "show_selected": true,
         "title": "MobileViews: A Large-Scale Mobile GUI Dataset",
-        "authors": ["Longxi Gao", "Li Zhang", "Shihe Wang", "Shangguang Wang", "Yuanchun Li", "Mengwei Xu"],
+        "authors": ["Longxi Gao*", "Li Zhang*", "Shihe Wang", "Shangguang Wang", "Yuanchun Li", "Mengwei Xu"],
         "addtion": {
             "rate": null,
             "files": [{
@@ -94,22 +118,22 @@ conferences([
             // "msg": "-- More is different!"
         }
     },
-    {
-        "conference": "[arXiv]",
-        "confernce_fullname": null,
-        "show_selected": true,
-        "title": "LLMCad: Fast and Scalable On-device Large Language Model Inference",
-        "authors": ["Daliang Xu", "Wangsong Yin", "Xin Jin", "Ying Zhang", "Shiyun Wei", "Mengwei Xu", "Xuanzhe Liu"],
-        "addtion": {
-            "rate": null,
-            "files": [{
-                "name": "arXiv",
-                "path": "https://arxiv.org/pdf/2309.04255"
-            }],
-            "important_msg": null,
-            // "msg": "-- More is different!"
-        }
-    },
+    // {
+    //     "conference": "[arXiv]",
+    //     "confernce_fullname": null,
+    //     "show_selected": true,
+    //     "title": "LLMCad: Fast and Scalable On-device Large Language Model Inference",
+    //     "authors": ["Daliang Xu", "Wangsong Yin", "Xin Jin", "Ying Zhang", "Shiyun Wei", "Mengwei Xu", "Xuanzhe Liu"],
+    //     "addtion": {
+    //         "rate": null,
+    //         "files": [{
+    //             "name": "arXiv",
+    //             "path": "https://arxiv.org/pdf/2309.04255"
+    //         }],
+    //         "important_msg": null,
+    //         // "msg": "-- More is different!"
+    //     }
+    // },
     {
         "conference": "[arXiv]",
         "confernce_fullname": null,
@@ -819,6 +843,10 @@ conferences([
                 {
                     "name": "code&data",
                     "path": "https://github.com/UbiquitousLearning/MobileDLFrameworksBenchmark"
+                },
+                {
+                    "name": "GetMobile article",
+                    "path": "https://dl.acm.org/doi/abs/10.1145/3701701.3701703"
                 }
             ],
             "important_msg": null,
