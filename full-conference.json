@@ -214,7 +214,11 @@ conferences([
             "files": [
             {
                 "name": "paper",
-                "path": "#"
+                "path": "files/NeurIPS24-SILENCE.pdf"
+            },
+            {
+                "name": "slides",
+                "path": "files/NeurIPS24-SILENCE-slides.pdf"
             }],
             "important_msg": null,
             // "msg": "-- More is different!"
@@ -232,6 +236,10 @@ conferences([
             {
                 "name": "paper",
                 "path": "files/SenSys24-PieBridge.pdf"
+            },
+            {
+                "name": "slides",
+                "path": "files/SenSys24-PieBridge-slides.pdf"
             }],
             "important_msg": null,
             // "msg": "-- More is different!"
@@ -241,7 +249,7 @@ conferences([
         "conference": "[UIST'24]",
         "confernce_fullname": "ACM Symposium on User Interface Software and Technology",
         "show_selected": true,
-        "title": "LlamaTouch: A Faithful and Scalable Testbed for Mobile UI Automation Task Evaluation",
+        "title": "LlamaTouch: A Faithful and Scalable Testbed for Mobile UI Task Automation",
         "authors": ["Li Zhang", "Shihe Wang", "Xianqing Jia", "Zhihan Zheng", "Yunhe Yan", "Longxi Gao", "Yuanchun Li", "Mengwei Xu"],
         "addtion": {
             "rate": "Acceptance rate = 24.0% (146/608)",
@@ -365,7 +373,7 @@ conferences([
         "conference": "[USENIX ATC'24]",
         "confernce_fullname": "USENIX ATC",
         "show_selected": true,
-        "title": "High-density Mobile Cloud Gaming on Edge SoC Farms",
+        "title": "High-density Mobile Cloud Gaming on Edge SoC Clusters",
         "authors": ["Li Zhang", "Shangguang Wang", "Mengwei Xu"],
         "addtion": {
             "rate": "Acceptance rate = 15.8% (77/488)",
