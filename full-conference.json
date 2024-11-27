@@ -51,26 +51,6 @@ conferences([
         "conference": "[arXiv]",
         "confernce_fullname": null,
         "show_selected": true,
-        "title": "A Survey of Resource-efficient LLM and Multimodal Foundation Models",
-        "authors": ["Mengwei Xu", "Wangsong Yin, Dongqi Cai, Rongjie Yi, Daliang Xu, Qipeng Wang, Bingyang Wu, Yihao Zhao, Chen Yang, Shihe Wang, Qiyang Zhang, Zhenyan Lu, Li Zhang, Shangguang Wang, Yuanchun Li, Yunxin Liu, Xin Jin, Xuanzhe Liu"],
-        "addtion": {
-            "rate": null,
-            "files": [{
-                "name": "arXiv",
-                "path": "https://arxiv.org/pdf/2401.08092.pdf"
-            },
-            {
-                "name": "paper list",
-                "path": "https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey"
-            }],
-            "important_msg": null,
-            // "msg": "-- More is different!"
-        }
-    },
-    {
-        "conference": "[arXiv]",
-        "confernce_fullname": null,
-        "show_selected": true,
         "title": "MobileViews: A Large-Scale Mobile GUI Dataset",
         "authors": ["Longxi Gao*", "Li Zhang*", "Shihe Wang", "Shangguang Wang", "Yuanchun Li", "Mengwei Xu"],
         "addtion": {
@@ -118,22 +98,6 @@ conferences([
             // "msg": "-- More is different!"
         }
     },
-    // {
-    //     "conference": "[arXiv]",
-    //     "confernce_fullname": null,
-    //     "show_selected": true,
-    //     "title": "LLMCad: Fast and Scalable On-device Large Language Model Inference",
-    //     "authors": ["Daliang Xu", "Wangsong Yin", "Xin Jin", "Ying Zhang", "Shiyun Wei", "Mengwei Xu", "Xuanzhe Liu"],
-    //     "addtion": {
-    //         "rate": null,
-    //         "files": [{
-    //             "name": "arXiv",
-    //             "path": "https://arxiv.org/pdf/2309.04255"
-    //         }],
-    //         "important_msg": null,
-    //         // "msg": "-- More is different!"
-    //     }
-    // },
     {
         "conference": "[arXiv]",
         "confernce_fullname": null,

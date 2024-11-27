@@ -1,13 +1,63 @@
 journals([
     {
+        "journal": "[CSUR'24]",
+        "journal_fullname": "ACM Computing Surveys",
+        "show_selected": true,
+        "title": "A Survey of Resource-efficient LLM and Multimodal Foundation Models",
+        "authors": ["Mengwei Xu", "Wangsong Yin, Dongqi Cai, Rongjie Yi, Daliang Xu, Qipeng Wang, Bingyang Wu, Yihao Zhao, Chen Yang, Shihe Wang, Qiyang Zhang, Zhenyan Lu, Li Zhang, Shangguang Wang, Yuanchun Li, Yunxin Liu, Xin Jin, Xuanzhe Liu"],
+        "files": [
+            {
+                "name": "Paper",
+                "path": "files/CSUR24-efficientllm.pdf"
+            },
+            {
+                "name": "Extended version",
+                "path": "https://arxiv.org/pdf/2401.08092.pdf"
+            },
+            {
+                "name": "paper list",
+                "path": "https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey"
+            }],
+        "msg": null,
+        "year": 2024,
+    },
+    {
         "journal": "[TMC'24]",
         "journal_fullname": "IEEE Transactions on Mobile Computing",
         "show_selected": true,
         "title": "Efficient, Scalable, and Sustainable DNN Training on SoC-Clustered Edge Servers",
         "authors": ["Mengwei Xu", "Daliang Xu", "Chiheng Lou", "Li Zhang", "Gang Huang", "Xin Jin", "Xuanzhe Liu"],
         "files": [{
-            "name": "pdf",
+            "name": "Paper",
             "path": "files/TMC24-SoCFlow.pdf"
+        }],
+        "msg": null,
+        "year": 2024,
+        "addtion": ""
+    },
+    {
+        "journal": "[TMC'24]",
+        "journal_fullname": "IEEE Transactions on Mobile Computing",
+        "show_selected": true,
+        "title": "EdgeLLM: Fast On-device LLM Inference with Speculative Decoding",
+        "authors": ["Daliang Xu", "Wangsong Yin", "Hao Zhang", "Xin Jin", "Ying Zhang", "Shiyun Wei", "Mengwei Xu", "Xuanzhe Liu"],
+        "files": [{
+            "name": "arXiv",
+            "path": "https://arxiv.org/pdf/2309.04255"
+        }],
+        "msg": null,
+        "year": 2024,
+        "addtion": ""
+    },
+    {
+        "journal": "[TMC'24]",
+        "journal_fullname": "IEEE Transactions on Mobile Computing",
+        "show_selected": true,
+        "title": "A Collaborative Cloud-Edge Approach for Robust Edge Workload Forecasting",
+        "authors": ["Yanan Li", "Penghong Zhao", "Xiao Ma", "Haitao Yuan", "Zhe Fu", "Mengwei Xu", "Shangguang Wang"],
+        "files": [{
+            "name": "Paper",
+            "path": "#"
         }],
         "msg": null,
         "year": 2024,
@@ -20,7 +70,7 @@ journals([
         "title": "Towards Efficient Satellite Computing Through Adaptive Compression",
         "authors": ["Chen Yang", "Qibo Sun", "Qiyang Zhang", "Hao Lu", "Claudio A. Ardagna", "Shangguang Wang", "Mengwei Xu"],
         "files": [{
-            "name": "pdf",
+            "name": "Paper",
             "path": "files/TSC24-SatelliteCompression.pdf"
         }],
         "msg": null,
@@ -34,7 +84,7 @@ journals([
         "title": "Communication-Efficient Satellite-Ground Federated Learning through Progressive Weight Quantization",
         "authors": ["Chen Yang*", "Jinliang Yuan*", "Yaozong Wu", "Qibo Sun", "Ao Zhou", "Shangguang Wang", "Mengwei Xu"],
         "files": [{
-            "name": "pdf",
+            "name": "Paper",
             "path": "files/TMC24-SatelliteFL.pdf"
         }],
         "msg": null,
@@ -88,7 +138,7 @@ journals([
         "title": "FLASH: Heterogeneity-Aware Federated Learning at Scale",
         "authors": ["Chengxu Yang", "Mengwei Xu", "Qipeng Wang", "Zhenpeng Chen", "Kang Huang", "Yun Ma", "Kaigui Bian", "Gang Huang", "Yunxin Liu", "Xin Jin", "Xuanzhe Liu"],
         "files": [{
-            "name": "pdf",
+            "name": "Paper",
             "path": "files/TMC22-FLASH.pdf"
         }],
         "msg": null,
@@ -122,7 +172,7 @@ journals([
         "title": "Autonomous Learning System towards Mobile Intelligence (in Chinese)",
         "authors": ["Mengwei Xu", "Yuanqiang Liu", "Kang Huang", "Xuanzhe Liu", "Gang Huang"],
         "files": [{
-            "name": "pdf",
+            "name": "Paper",
             "path": "http://www.jos.org.cn/1000-9825/6064.htm"
         }],
         "msg": null,
@@ -136,7 +186,7 @@ journals([
         "title": "DeepWear: Adaptive Local Offloading for On-Wearable Deep Learning",
         "authors": ["Mengwei Xu", "Feng Qian", "Mengze Zhu", "Feifan Huang", "Saumay Pushp", "Xuanzhe Liu"],
         "files": [{
-            "name": "pdf",
+            "name": "Paper",
             "path": "files/TMC-DeepWear.pdf"
         }],
         "msg": "-- Your wearables deserve deep learning as well!",
@@ -159,7 +209,7 @@ journals([
         "title": "ShuffleDog: Characterizing and Adapting User-Perceived Latency of Android App",
         "authors": ["Gang Huang", "Mengwei Xu", "Felix Xiaozhu Lin", "Yun Ma", "Yunxin Liu", "Saumay Pushp", "Xuanzhe Liu"],
         "files": [{
-            "name": "pdf",
+            "name": "Paper",
             "path": "files/TMC-ShuffleDog.pdf"
         }],
         "msg": "-- Multi-task GPU scheduling on smartphones.",
