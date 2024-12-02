@@ -18,6 +18,10 @@ conferences([
             {
                 "name": "models",
                 "path": "https://huggingface.co/mllmTeam/PhoneLM-1.5B-Instruct"
+            },
+            {
+                "name": "TechXplore",
+                "path": "https://techxplore.com/news/2024-11-ai-personal-devices-efficient-small.html"
             }],
             "important_msg": null,
             // "msg": "-- More is different!"
