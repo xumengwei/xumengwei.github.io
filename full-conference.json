@@ -55,6 +55,26 @@ conferences([
         "conference": "[arXiv]",
         "confernce_fullname": null,
         "show_selected": true,
+        "title": "DroidCall: A Dataset for LLM-powered Android Intent Invocation",
+        "authors": ["Weikai Xie", "Li Zhang", "Shihe Wang", "Rongjie Yi", "Mengwei Xu"],
+        "addtion": {
+            "rate": null,
+            "files": [{
+                "name": "arXiv",
+                "path": "https://arxiv.org/pdf/2412.00402"
+            },
+            {
+                "name": "code",
+                "path": "https://github.com/UbiquitousLearning/DroidCall"
+            }],
+            "important_msg": null,
+            // "msg": "-- More is different!"
+        }
+    },
+    {
+        "conference": "[arXiv]",
+        "confernce_fullname": null,
+        "show_selected": true,
         "title": "MobileViews: A Large-Scale Mobile GUI Dataset",
         "authors": ["Longxi Gao*", "Li Zhang*", "Shihe Wang", "Shangguang Wang", "Yuanchun Li", "Mengwei Xu"],
         "addtion": {
