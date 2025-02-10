@@ -3,6 +3,22 @@ conferences([
         "conference": "[arXiv]",
         "confernce_fullname": null,
         "show_selected": true,
+        "title": "Every Software as an Agent: Blueprint and Case Study",
+        "authors": ["Mengwei Xu"],
+        "addtion": {
+            "rate": null,
+            "files": [{
+                "name": "arXiv",
+                "path": "https://arxiv.org/pdf/2502.04747"
+            }],
+            "important_msg": null,
+            // "msg": "-- More is different!"
+        }
+    },
+    {
+        "conference": "[arXiv]",
+        "confernce_fullname": null,
+        "show_selected": true,
         "title": "PhoneLM: an Efficient and Capable Small Language Model Family through Principled Pre-training",
         "authors": ["Rongjie Yi", "Xiang Li", "Weikai Xie", "Zhenyan Lu", "Chenghua Wang", "Ao Zhou", "Shangguang Wang", "Xiwen Zhang", "Mengwei Xu"],
         "addtion": {
