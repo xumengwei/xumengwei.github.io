@@ -1,5 +1,19 @@
 journals([
     {
+        "journal": "[TMC'25]",
+        "journal_fullname": null,
+        "show_selected": true,
+        "title": "EdgeMoE: Fast On-Device Inference of MoE-based Large Language Models",
+        "authors": ["Rongjie Yi", "Liwei Guo", "Shiyun Wei", "Ao Zhou", "Shangguang Wang", "Mengwei Xu"],
+        "files": [
+            {
+                "name": "arXiv",
+                "path": "https://arxiv.org/pdf/2308.14352.pdf"
+            }],
+        "msg": null,
+        "year": 2025
+    },
+    {
         "journal": "[CSUR'24]",
         "journal_fullname": "ACM Computing Surveys",
         "show_selected": true,
