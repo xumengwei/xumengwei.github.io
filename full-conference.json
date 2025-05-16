@@ -15,6 +15,22 @@ conferences([
             // "msg": "-- More is different!"
         }
     },
+    // {
+    //     "conference": "[arXiv]",
+    //     "confernce_fullname": null,
+    //     "show_selected": true,
+    //     "title": "Does Chain-of-Thought Reasoning Help Mobile GUI Agent? An Empirical Study",
+    //     "authors": ["Li Zhang*", "Longxi Gao*", "Mengwei Xu"],
+    //     "addtion": {
+    //         "rate": null,
+    //         "files": [{
+    //             "name": "arXiv",
+    //             "path": "https://arxiv.org/pdf/2503.16788"
+    //         }],
+    //         "important_msg": null,
+    //         // "msg": "-- More is different!"
+    //     }
+    // },
     {
         "conference": "[arXiv]",
         "confernce_fullname": null,
@@ -38,30 +54,6 @@ conferences([
             {
                 "name": "TechXplore",
                 "path": "https://techxplore.com/news/2024-11-ai-personal-devices-efficient-small.html"
-            }],
-            "important_msg": null,
-            // "msg": "-- More is different!"
-        }
-    },
-    {
-        "conference": "[arXiv]",
-        "confernce_fullname": null,
-        "show_selected": true,
-        "title": "Small Language Models: Survey, Measurements, and Insights",
-        "authors": ["Zhenyan Lu", "Xiang Li", "Dongqi Cai", "Rongjie Yi", "Fangming Liu", "Xiwen Zhang", "Nicholas D.Lane", "Mengwei Xu"],
-        "addtion": {
-            "rate": null,
-            "files": [{
-                "name": "arXiv",
-                "path": "https://arxiv.org/pdf/2409.15790"
-            },
-            {
-                "name": "code",
-                "path": "https://github.com/UbiquitousLearning/SLM_Survey"
-            },
-            {
-                "name": "website (leaderboard)",
-                "path": "https://ubiquitouslearning.github.io/TinyLLMLeaderBoard/"
             }],
             "important_msg": null,
             // "msg": "-- More is different!"
@@ -155,17 +147,24 @@ conferences([
         }
     },
     {
-        "conference": "[arXiv]",
-        "confernce_fullname": "null",
+        "conference": "[ACL'25]",
+        "confernce_fullname": "Annual Meeting of the Association for Computational Linguistics",
         "show_selected": true,
-        "title": "Recall: Empowering Multimodal Embedding for Edge Devices",
-        "authors": ["Dongqi Cai", "Shangguang Wang", "Chen Peng", "Zeling Zhang", "Mengwei Xu"],
+        "title": "Small Language Models: Survey, Measurements, and Insights",
+        "authors": ["Zhenyan Lu", "Xiang Li", "Dongqi Cai", "Rongjie Yi", "Fangming Liu", "Xiwen Zhang", "Nicholas D.Lane", "Mengwei Xu"],
         "addtion": {
-            "rate": "null",
-            "files": [
-            {
+            "rate": null,
+            "files": [{
                 "name": "arXiv",
-                "path": "https://arxiv.org/pdf/2409.15342"
+                "path": "https://arxiv.org/pdf/2409.15790"
+            },
+            {
+                "name": "code",
+                "path": "https://github.com/UbiquitousLearning/SLM_Survey"
+            },
+            {
+                "name": "website (leaderboard)",
+                "path": "https://ubiquitouslearning.github.io/TinyLLMLeaderBoard/"
             }],
             "important_msg": null,
             // "msg": "-- More is different!"

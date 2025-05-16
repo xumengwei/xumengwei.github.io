@@ -1,5 +1,26 @@
 journals([
     {
+        "journal": "[Nature Comm'25]",
+        "journal_fullname": "Nature Communications",
+        "show_selected": true,
+        "title": "Ubiquitous Memory Augmentation via Mobile Multimodal Embedding System",
+        "authors": ["Dongqi Cai", "Shangguang Wang", "Chen Peng", "Zeling Zhang", "Zhenyan Lu", "Tao Qi", "Nicholas D.Lane", "Mengwei Xu"],
+        "addtion": {
+            "rate": "null",
+            "files": [
+            {
+                "name": "Paper",
+                "path": "files/NC25-Recall.pdf"
+            },
+            {
+                "name": "arXiv",
+                "path": "https://arxiv.org/pdf/2409.15342"
+            }],
+            "important_msg": null,
+            // "msg": "-- More is different!"
+        }
+    },
+    {
         "journal": "[TMC'25]",
         "journal_fullname": null,
         "show_selected": true,
