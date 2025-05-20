@@ -3,6 +3,22 @@ conferences([
         "conference": "[arXiv]",
         "confernce_fullname": null,
         "show_selected": true,
+        "title": "UIShift: Enhancing VLM-based GUI Agents through Self-supervised Reinforcement Learning",
+        "authors": ["Longxi Gao", "Li Zhang", "Mengwei Xu"],
+        "addtion": {
+            "rate": null,
+            "files": [{
+                "name": "arXiv",
+                "path": "https://arxiv.org/pdf/2505.12493"
+            }],
+            "important_msg": null,
+            // "msg": "-- More is different!"
+        }
+    },
+    {
+        "conference": "[arXiv]",
+        "confernce_fullname": null,
+        "show_selected": true,
         "title": "Every Software as an Agent: Blueprint and Case Study",
         "authors": ["Mengwei Xu"],
         "addtion": {
