@@ -19,6 +19,38 @@ conferences([
         "conference": "[arXiv]",
         "confernce_fullname": null,
         "show_selected": true,
+        "title": "MCPWorld: A Unified Benchmarking Testbed for API, GUI, and Hybrid Computer Use Agents",
+        "authors": ["Yunhe Yan*", "Shihe Wang*", "Jiajun Du*", "Yexuan Yang", "Yuxuan Shan", "Qichen Qiu", "Xianqing Jia", "Xinge Wang", "Xin Yuan", "Xu Han", "Mao Qin", "Yinxiao Chen", "Chen Peng", "Shangguang Wang", "Mengwei Xu"],
+        "addtion": {
+            "rate": null,
+            "files": [{
+                "name": "arXiv",
+                "path": "https://arxiv.org/pdf/2506.07672"
+            }],
+            "important_msg": null,
+            // "msg": "-- More is different!"
+        }
+    },
+    {
+        "conference": "[arXiv]",
+        "confernce_fullname": null,
+        "show_selected": true,
+        "title": "LoRASuite: Efficient LoRA Adaptation Across Large Language Model Upgrades",
+        "authors": ["Yanan Li", "Fanxu Meng", "Muhan Zhang", "Shiai Zhu", "Shangguang Wang", "Mengwei Xu"],
+        "addtion": {
+            "rate": null,
+            "files": [{
+                "name": "arXiv",
+                "path": "https://arxiv.org/pdf/2505.13515?"
+            }],
+            "important_msg": null,
+            // "msg": "-- More is different!"
+        }
+    },
+    {
+        "conference": "[arXiv]",
+        "confernce_fullname": null,
+        "show_selected": true,
         "title": "Every Software as an Agent: Blueprint and Case Study",
         "authors": ["Mengwei Xu"],
         "addtion": {

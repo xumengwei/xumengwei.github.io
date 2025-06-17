@@ -1,13 +1,11 @@
 journals([
     {
-        "journal": "[Nature Comm'25]",
+        "journal": "[NC'25]",
         "journal_fullname": "Nature Communications",
         "show_selected": true,
         "title": "Ubiquitous Memory Augmentation via Mobile Multimodal Embedding System",
         "authors": ["Dongqi Cai", "Shangguang Wang", "Chen Peng", "Zeling Zhang", "Zhenyan Lu", "Tao Qi", "Nicholas D.Lane", "Mengwei Xu"],
-        "addtion": {
-            "rate": "null",
-            "files": [
+        "files": [
             {
                 "name": "Paper",
                 "path": "files/NC25-Recall.pdf"
@@ -18,11 +16,24 @@ journals([
             }],
             "important_msg": null,
             // "msg": "-- More is different!"
-        }
     },
     {
         "journal": "[TMC'25]",
-        "journal_fullname": null,
+        "journal_fullname": "IEEE Transactions on Mobile Computing",
+        "show_selected": true,
+        "title": "From Earth to Orbit: Launch Sequence Optimization for LEO Mega-Constellations",
+        "authors": ["Tianze Huang", "Qing Li", "Chenren Xu", "Mengwei Xu", "Shangguang Wang", "Gang Huang", "Xuanzhe Liu"],
+        "files": [
+            {
+                "name": "paper",
+                "path": "https://ieeexplore.ieee.org/abstract/document/10945678"
+            }],
+        "msg": null,
+        "year": 2025
+    },
+    {
+        "journal": "[TMC'25]",
+        "journal_fullname": "IEEE Transactions on Mobile Computing",
         "show_selected": true,
         "title": "EdgeMoE: Fast On-Device Inference of MoE-based Large Language Models",
         "authors": ["Rongjie Yi", "Liwei Guo", "Shiyun Wei", "Ao Zhou", "Shangguang Wang", "Mengwei Xu"],
