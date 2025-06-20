@@ -3,6 +3,22 @@ conferences([
         "conference": "[arXiv]",
         "confernce_fullname": null,
         "show_selected": true,
+        "title": "MobiEdit: Resource-efficient Knowledge Editing for Personalized On-device LLMs",
+        "authors": ["Zhenyan Lu", "Daliang Xu", "Dongqi Cai", "Zexi Li", "Wei Liu", "Fangming Liu", "Shangguang Wang", "Mengwei Xu"],
+        "addtion": {
+            "rate": null,
+            "files": [{
+                "name": "arXiv",
+                "path": "https://arxiv.org/pdf/2506.13772"
+            }],
+            "important_msg": null,
+            // "msg": "-- More is different!"
+        }
+    },
+    {
+        "conference": "[arXiv]",
+        "confernce_fullname": null,
+        "show_selected": true,
         "title": "UIShift: Enhancing VLM-based GUI Agents through Self-supervised Reinforcement Learning",
         "authors": ["Longxi Gao", "Li Zhang", "Mengwei Xu"],
         "addtion": {
