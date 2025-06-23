@@ -179,13 +179,13 @@ conferences([
         }
     },
     {
-        "conference": "[arXiv]",
-        "confernce_fullname": null,
+        "conference": "[MobiCom'25]",
+        "confernce_fullname": "International Conference on Mobile Computing and Networking",
         "show_selected": true,
         "title": "ELMS: Elasticized Large Language Models on Mobile Devices",
         "authors": ["Wangsong Yin", "Rongjie Yi", "Daliang Xu", "Gang Huang", "Mengwei Xu", "Xuanzhe Liu"],
         "addtion": {
-            "rate": null,
+            "rate": "Acceptance rate = 10.3% (36/348, winter round)",
             "files": [{
                 "name": "arXiv",
                 "path": "https://www.arxiv.org/pdf/2409.09071"
