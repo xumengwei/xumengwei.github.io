@@ -7,11 +7,12 @@ conferences([
         "authors": ["Zhenyan Lu", "Daliang Xu", "Dongqi Cai", "Zexi Li", "Wei Liu", "Fangming Liu", "Shangguang Wang", "Mengwei Xu"],
         "addtion": {
             "rate": null,
-            "files": [{
+            "files": [
+            {
                 "name": "arXiv",
                 "path": "https://arxiv.org/pdf/2506.13772"
             }],
-            "important_msg": null,
+            "important_msg": "Best Poster Award at MobiUK'25",
             // "msg": "-- More is different!"
         }
     },
@@ -42,22 +43,6 @@ conferences([
             "files": [{
                 "name": "arXiv",
                 "path": "https://arxiv.org/pdf/2506.07672"
-            }],
-            "important_msg": null,
-            // "msg": "-- More is different!"
-        }
-    },
-    {
-        "conference": "[arXiv]",
-        "confernce_fullname": null,
-        "show_selected": true,
-        "title": "LoRASuite: Efficient LoRA Adaptation Across Large Language Model Upgrades",
-        "authors": ["Yanan Li", "Fanxu Meng", "Muhan Zhang", "Shiai Zhu", "Shangguang Wang", "Mengwei Xu"],
-        "addtion": {
-            "rate": null,
-            "files": [{
-                "name": "arXiv",
-                "path": "https://arxiv.org/pdf/2505.13515?"
             }],
             "important_msg": null,
             // "msg": "-- More is different!"
@@ -173,6 +158,23 @@ conferences([
             "files": [{
                 "name": "arXiv",
                 "path": "https://arxiv.org/pdf/2403.11805"
+            }],
+            "important_msg": null,
+            // "msg": "-- More is different!"
+        }
+    },
+    {
+        "conference": "[NeurIPS'25]",
+        "confernce_fullname": "Conference on Neural Information Processing Systems",
+        "show_selected": true,
+        "title": "LoRASuite: Efficient LoRA Adaptation Across Large Language Model Upgrades",
+        "authors": ["Yanan Li", "Fanxu Meng", "Muhan Zhang", "Shiai Zhu", "Shangguang Wang", "Mengwei Xu"],
+        "addtion": {
+            "rate": null,
+            "rate": "Acceptance rate = 24.5% (5290/21575)",
+            "files": [{
+                "name": "arXiv",
+                "path": "https://arxiv.org/pdf/2505.13515?"
             }],
             "important_msg": null,
             // "msg": "-- More is different!"
