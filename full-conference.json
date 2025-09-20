@@ -3,6 +3,22 @@ conferences([
         "conference": "[arXiv]",
         "confernce_fullname": null,
         "show_selected": true,
+        "title": "Dynamic Sparse Attention on Mobile SoCs",
+        "authors": ["Wangsong Yin", "Daliang Xu", "Mengwei Xu", "Gang Huang", "Xuanzhe Liu"],
+        "addtion": {
+            "rate": null,
+            "files": [
+            {
+                "name": "arXiv",
+                "path": "https://arxiv.org/pdf/2508.16703?"
+            }],
+            // "msg": "-- More is different!"
+        }
+    },
+    {
+        "conference": "[arXiv]",
+        "confernce_fullname": null,
+        "show_selected": true,
         "title": "MobiEdit: Resource-efficient Knowledge Editing for Personalized On-device LLMs",
         "authors": ["Zhenyan Lu", "Daliang Xu", "Dongqi Cai", "Zexi Li", "Wei Liu", "Fangming Liu", "Shangguang Wang", "Mengwei Xu"],
         "addtion": {
@@ -51,7 +67,7 @@ conferences([
     {
         "conference": "[arXiv]",
         "confernce_fullname": null,
-        "show_selected": true,
+        "show_selected": false,
         "title": "Every Software as an Agent: Blueprint and Case Study",
         "authors": ["Mengwei Xu"],
         "addtion": {
@@ -177,7 +193,7 @@ conferences([
                 "path": "https://arxiv.org/pdf/2505.13515?"
             }],
             "important_msg": null,
-            // "msg": "-- More is different!"
+            "msg": "-- Can we upgrade LLMs without re-training LoRa?"
         }
     },
     {
@@ -193,7 +209,7 @@ conferences([
                 "path": "https://www.arxiv.org/pdf/2409.09071"
             }],
             "important_msg": null,
-            // "msg": "-- More is different!"
+            "msg": "-- When LLM becomes an OS service, it must be elastic!"
         }
     },
     {
@@ -258,7 +274,7 @@ conferences([
                 "path": "https://github.com/UbiquitousLearning/mllm"
             }],
             "important_msg": null,
-            // "msg": "-- More is different!"
+            "msg": "-- The first NPU-centric LLM inference system!"
         }
     },
     {
