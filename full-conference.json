@@ -164,8 +164,8 @@ conferences([
         }
     },
     {
-        "conference": "[arXiv]",
-        "confernce_fullname": null,
+        "conference": "[SenSys'26]",
+        "confernce_fullname": "ACM Conference on Embedded Networked Sensor Systems",
         "show_selected": true,
         "title": "LLM as a System Service on Mobile Devices",
         "authors": ["Wangsong Yin", "Mengwei Xu", "Yuanchun Li", "Xuanzhe Liu"],
@@ -200,11 +200,16 @@ conferences([
         "conference": "[MobiCom'25]",
         "confernce_fullname": "International Conference on Mobile Computing and Networking",
         "show_selected": true,
-        "title": "ELMS: Elasticized Large Language Models on Mobile Devices",
+        "title": "Elastic On-Device LLM Service",
         "authors": ["Wangsong Yin", "Rongjie Yi", "Daliang Xu", "Gang Huang", "Mengwei Xu", "Xuanzhe Liu"],
         "addtion": {
             "rate": "Acceptance rate = 10.3% (36/348, winter round)",
-            "files": [{
+            "files": [
+            {
+                "name": "paper",
+                "path": "files/MobiCom25-ElastiLM.pdf"
+            },
+            {
                 "name": "arXiv",
                 "path": "https://www.arxiv.org/pdf/2409.09071"
             }],
