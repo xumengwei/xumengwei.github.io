@@ -10,7 +10,23 @@ conferences([
             "files": [
             {
                 "name": "arXiv",
-                "path": "https://arxiv.org/pdf/2508.16703?"
+                "path": "https://arxiv.org/pdf/2508.16703"
+            }],
+            // "msg": "-- More is different!"
+        }
+    },
+    {
+        "conference": "[arXiv]",
+        "confernce_fullname": null,
+        "show_selected": true,
+        "title": "Accelerating Mobile Language Model Generation via Hybrid Context and Hardware Coordination",
+        "authors": ["Zhiyang Chen", "Daliang Xu", "Haiyang Shen", "Mengwei Xu", "Shangguang Wang", "Yun Ma"],
+        "addtion": {
+            "rate": null,
+            "files": [
+            {
+                "name": "arXiv",
+                "path": "https://arxiv.org/pdf/2510.15312"
             }],
             // "msg": "-- More is different!"
         }
@@ -51,7 +67,7 @@ conferences([
     {
         "conference": "[arXiv]",
         "confernce_fullname": null,
-        "show_selected": true,
+        "show_selected": false,
         "title": "MCPWorld: A Unified Benchmarking Testbed for API, GUI, and Hybrid Computer Use Agents",
         "authors": ["Yunhe Yan*", "Shihe Wang*", "Jiajun Du*", "Yexuan Yang", "Yuxuan Shan", "Qichen Qiu", "Xianqing Jia", "Xinge Wang", "Xin Yuan", "Xu Han", "Mao Qin", "Yinxiao Chen", "Chen Peng", "Shangguang Wang", "Mengwei Xu"],
         "addtion": {
@@ -99,7 +115,7 @@ conferences([
     {
         "conference": "[arXiv]",
         "confernce_fullname": null,
-        "show_selected": true,
+        "show_selected": false,
         "title": "PhoneLM: an Efficient and Capable Small Language Model Family through Principled Pre-training",
         "authors": ["Rongjie Yi", "Xiang Li", "Weikai Xie", "Zhenyan Lu", "Chenghua Wang", "Ao Zhou", "Shangguang Wang", "Xiwen Zhang", "Mengwei Xu"],
         "addtion": {
