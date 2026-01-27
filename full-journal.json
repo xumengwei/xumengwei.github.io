@@ -1,5 +1,19 @@
 journals([
     {
+        "journal": "[TOCS'26]",
+        "journal_fullname": "ACM Transactions on Computer Systems",
+        "show_selected": true,
+        "title": "Rust Meets Linux: Lessons from an Evolving Experiment",
+        "authors": ["Hongyu Li*", "Liwei Guo", "Yexuan Yang", "Shangguang Wang", "Mengwei Xu"],
+        "files": [
+            {
+                "name": "Paper",
+                "path": "#"
+            }],
+            "important_msg": null,
+            // "msg": "-- More is different!"
+    },
+    {
         "journal": "[NC'25]",
         "journal_fullname": "Nature Communications",
         "show_selected": true,

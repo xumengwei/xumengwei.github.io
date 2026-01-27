@@ -34,39 +34,6 @@ conferences([
     {
         "conference": "[arXiv]",
         "confernce_fullname": null,
-        "show_selected": true,
-        "title": "MobiEdit: Resource-efficient Knowledge Editing for Personalized On-device LLMs",
-        "authors": ["Zhenyan Lu", "Daliang Xu", "Dongqi Cai", "Zexi Li", "Wei Liu", "Fangming Liu", "Shangguang Wang", "Mengwei Xu"],
-        "addtion": {
-            "rate": null,
-            "files": [
-            {
-                "name": "arXiv",
-                "path": "https://arxiv.org/pdf/2506.13772"
-            }],
-            "important_msg": "Best Poster Award at MobiUK'25",
-            // "msg": "-- More is different!"
-        }
-    },
-    {
-        "conference": "[arXiv]",
-        "confernce_fullname": null,
-        "show_selected": true,
-        "title": "UIShift: Enhancing VLM-based GUI Agents through Self-supervised Reinforcement Learning",
-        "authors": ["Longxi Gao", "Li Zhang", "Mengwei Xu"],
-        "addtion": {
-            "rate": null,
-            "files": [{
-                "name": "arXiv",
-                "path": "https://arxiv.org/pdf/2505.12493"
-            }],
-            "important_msg": null,
-            // "msg": "-- More is different!"
-        }
-    },
-    {
-        "conference": "[arXiv]",
-        "confernce_fullname": null,
         "show_selected": false,
         "title": "MCPWorld: A Unified Benchmarking Testbed for API, GUI, and Hybrid Computer Use Agents",
         "authors": ["Yunhe Yan*", "Shihe Wang*", "Jiajun Du*", "Yexuan Yang", "Yuxuan Shan", "Qichen Qiu", "Xianqing Jia", "Xinge Wang", "Xin Yuan", "Xu Han", "Mao Qin", "Yinxiao Chen", "Chen Peng", "Shangguang Wang", "Mengwei Xu"],
@@ -174,6 +141,39 @@ conferences([
             }, {
                 "name": "dataset",
                 "path": "https://huggingface.co/datasets/mllmTeam/MobileViews"
+            }],
+            "important_msg": null,
+            // "msg": "-- More is different!"
+        }
+    },
+    {
+        "conference": "[ICLR'26]",
+        "confernce_fullname": "International Conference on Learning Representations",
+        "show_selected": true,
+        "title": "MobiEdit: Resource-efficient Knowledge Editing for Personalized On-device LLMs",
+        "authors": ["Zhenyan Lu", "Daliang Xu", "Dongqi Cai", "Zexi Li", "Wei Liu", "Fangming Liu", "Shangguang Wang", "Mengwei Xu"],
+        "addtion": {
+            "rate": null,
+            "files": [
+            {
+                "name": "arXiv",
+                "path": "https://arxiv.org/pdf/2506.13772"
+            }],
+            "important_msg": "Best Poster Award at MobiUK'25",
+            // "msg": "-- More is different!"
+        }
+    },
+    {
+        "conference": "[ICLR'26]",
+        "confernce_fullname": "International Conference on Learning Representations",
+        "show_selected": true,
+        "title": "UIShift: Enhancing VLM-based GUI Agents through Self-supervised Reinforcement Learning",
+        "authors": ["Longxi Gao", "Li Zhang", "Pengzhi Gao", "Wei Liu", "Jian Luan", "Mengwei Xu"],
+        "addtion": {
+            "rate": null,
+            "files": [{
+                "name": "arXiv",
+                "path": "https://arxiv.org/pdf/2505.12493"
             }],
             "important_msg": null,
             // "msg": "-- More is different!"
