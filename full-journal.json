@@ -4,7 +4,7 @@ journals([
         "journal_fullname": "ACM Transactions on Computer Systems",
         "show_selected": true,
         "title": "Rust Meets Linux: Lessons from an Evolving Experiment",
-        "authors": ["Hongyu Li*", "Liwei Guo", "Yexuan Yang", "Shangguang Wang", "Mengwei Xu"],
+        "authors": ["Hongyu Li*", "Liwei Guo*", "Yexuan Yang", "Shangguang Wang", "Mengwei Xu"],
         "files": [
             {
                 "name": "Paper",
