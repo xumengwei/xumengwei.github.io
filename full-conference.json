@@ -131,6 +131,22 @@ conferences([
         }
     },
     {
+        "conference": "[ICML'26]",
+        "confernce_fullname": "International Conference on Machine Learning",
+        "show_selected": true,
+        "title": "NanoSpec: Accelerating Speculative Decoding using Minimalist In-Context Vocabularies",
+        "authors": ["Zhiyang Chen", "Daliang Xu", "Yinyuan Zhang", "Chenghua Wang", "Mengwei Xu", "Yun Ma"],
+        "addtion": {
+            "rate": null,
+            "files": [
+            {
+                "name": "arXiv",
+                "path": "#"
+            }],
+            // "msg": "-- More is different!"
+        }
+    },
+    {
         "conference": "[MobiSys'26]",
         "confernce_fullname": "International Conference on Mobile Systems, Applications, and Services",
         "show_selected": true,
